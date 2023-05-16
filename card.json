@@ -9,7 +9,6 @@
             "code": "`FTKSR_1`"
         }
     ],
-{
     "FTKHY_1": [
         {
             "name": "**★ Fromis_9 Hayoung**",
@@ -18,9 +17,9 @@
             "inv": "Fromis_9",
             "grade": "1star",
             "code": "`FTKHY_1`"
+
         }
     ],
-{
     "FTKJW_1": [
         {
             "name": "**★ Fromis_9 Jiwon**",
@@ -31,7 +30,6 @@
             "code": "`FTKJW_1`"
         }
     ],
-{
     "FTKGY_1": [
         {
             "name": "**★ Fromis_9 Gyuri**",
@@ -42,7 +40,6 @@
             "code": "`FTKGY_1`"
         }
     ],
-{
     "FTKJS_1": [
         {
             "name": "**★ Fromis_9 Jisun**",
@@ -53,7 +50,6 @@
             "code": "`FTKJS_1`"
         }
     ],
-{
     "FTKSY_1": [
         {
             "name": "**★ Fromis_9 Seoyeon**",
@@ -64,7 +60,6 @@
             "code": "`FTKSY_1`"
         }
     ],
-{
     "FTKCY_1": [
         {
             "name": "**★ Fromis_9 Chaeyoung**",
@@ -75,8 +70,7 @@
             "code": "`FTKCY_1`"
         }
     ],
-{
-    "FTKNG_1": [
+        "FTKNG_1": [
         {
             "name": "**★ Fromis_9 Nagyung**",
             "image": "https://media.discordapp.net/attachments/1106903439792930876/1106903709616717965/Untitled339_20230513185729.png",
@@ -86,7 +80,6 @@
             "code": "`FTKNG_1`"
         }
     ],
-{
     "FTKJH_1": [
         {
             "name": "**★ Fromis_9 Jiheon**",
@@ -97,6 +90,19 @@
             "code": "`FTKJH_1`"
         }
     ],
+
+    
+
+    
+
+    
+
+
+    
+
+
+
+    
 
 
 
