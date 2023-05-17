@@ -617,7 +617,107 @@
             "inv": "Oh My Girl",
             "grade": "1star",
             "code": "`ODDAR_1`"
-        }                 
+        }
+    ],
+    "WLSEY_1": [
+        {
+            "name": "**★ WJSN EXY**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSEY_1`"
+        }    
+    ],
+    "WLSSL_1": [
+        {
+            "name": "**★ WJSN Seola**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSSL_1`"
+        }   
+    ],
+    "WLSBN_1": [
+        {
+            "name": "**★ WJSN Bona**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSBN_1`"
+        }      
+    ],
+    "WLSSB_1": [
+        {
+            "name": "**★ WJSN Soobin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSSB_1`"
+        }        
+    ],
+    "WLSLD_1": [
+        {
+            "name": "**★ WJSN Luda**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSLD_1`"
+        }     
+    ],
+    "WLSDW_1": [
+        {
+            "name": "**★ WJSN Dawon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSDW_1`"
+        }       
+    ],
+    "WLSES_1": [
+        {
+            "name": "**★ WJSN Eunseo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSES_1`"
+        }     
+    ],
+    "WLSYR_1": [
+        {
+            "name": "**★ WJSN Yeoreum**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSYR_1`"
+        }     
+    ],
+    "WLSDY_1": [
+        {
+            "name": "**★ WJSN Dayoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSDY_1`"
+        }    
+    ],
+    "WLSYJ_1": [
+        {
+            "name": "**★ WJSN Yeonjung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLSYJ_1`"
+        }        
     ]
 }
     
