@@ -314,7 +314,7 @@
             "name": "**★ Tomorrow X Together Yeonjun**",
             "image": "https://media.discordapp.net/attachments/1106937921254207548/1106949063036895352/Untitled345_20230513221915.png",
             "theme": "card1",
-            "inv": "TXT",
+            "inv": "Tomorrow X Together",
             "grade": "1star",
             "code": "`TSRYJ_1`"
         }    
@@ -324,7 +324,7 @@
             "name": "**★ Tomorrow X Together Soobin**",
             "image": "https://media.discordapp.net/attachments/1106937921254207548/1106949062491656282/Untitled345_20230513221937.png",
             "theme": "card1",
-            "inv": "TXT",
+            "inv": "Tomorrow X Together",
             "grade": "1star",
             "code": "`TSRSB_1`"
         }   
@@ -334,7 +334,7 @@
             "name": "**★ Tomorrow X Together Beomgyu**",
             "image": "https://media.discordapp.net/attachments/1106937921254207548/1108377494035378247/Untitled345_20230517204848.png",
             "theme": "card1",
-            "inv": "TXT",
+            "inv": "Tomorrow X Together",
             "grade": "1star",
             "code": "`TSRBG_1`"
         }    
@@ -344,7 +344,7 @@
             "name": "**★ Tomorrow X Together Taehyun**",
             "image": "https://media.discordapp.net/attachments/1106937921254207548/1106949064240660581/Untitled345_20230513221732.png",
             "theme": "card1",
-            "inv": "TXT",
+            "inv": "Tomorrow X Together",
             "grade": "1star",
             "code": "`TSRTH_1`"
         }  
@@ -354,7 +354,7 @@
             "name": "**★ Tomorrow X Together Huening Kai**",
             "image": "https://media.discordapp.net/attachments/1106937921254207548/1106949063800262809/Untitled345_20230513221759.png",
             "theme": "card1",
-            "inv": "TXT",
+            "inv": "Tomorrow X Together",
             "grade": "1star",
             "code": "`TSRHK_1`"
         }   
@@ -498,6 +498,56 @@
             "grade": "1star",
             "code": "`MRHIM_1`"
         }    
+    ],
+    "RBRIR_1": [
+        {
+            "name": "**★ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1108502085772779600/Untitled351_20230518051000.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RBRIR_1`"
+        }        
+    ],
+    "RBRSG_1": [
+        {
+            "name": "**★ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1108502086049607870/Untitled351_20230518051016.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RBRSG_1`"
+        }  
+    ],
+    "RBRWD_1": [
+        {
+            "name": "**★ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1108502086364188732/Untitled351_20230518051022.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RBRWD_1`"
+        }         
+    ],
+    "RBRJY_1": [
+        {
+            "name": "**★ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1108502086703915130/Untitled351_20230518051034.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RBRJY_1`"
+        }  
+    ],
+    "RBRYR_1": [
+        {
+            "name": "**★ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1108502086972354610/Untitled351_20230518051043.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RBRYR_1`"
+        }            
     ]
 }
     
