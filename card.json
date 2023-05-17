@@ -207,10 +207,111 @@
             "inv": "Ateez",
             "grade": "1star",
             "code": "`AGRJH_1`"
+        }   
+    ],
+    "CFRJY_1": [
+        {
+            "name": "**★ CIX Bae Jinyoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CFRJY_1`"
+        }        
+     ],
+    "CFRBX_1": [
+        {
+            "name": "**★ CIX BX**",
+            "image": "",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CFRBX_1`"
+        }  
+    ],
+    "CFRSH_1": [
+        {
+            "name": "**★ CIX Seunghun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CFRSH_1`"
+        }      
+     ],
+    "CFRYH_1": [
+        {
+            "name": "**★ CIX Yonghee**",
+            "image": "",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CFRYH_1`"
+        }  
+    ],
+    "CFRHS_1": [
+        {
+            "name": "**★ CIX Hyunsuk**",
+            "image": "",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CFRHS_1`"
+        }     
+    ]
+    "GQCMY_1": [
+        {
+            "name": "**★ (G)I-DLE Miyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GQCMY_1`"
+        }   
+    ]
+    "GQCMN_1": [
+        {
+            "name": "**★ (G)I-DLE Minnir**",
+            "image": "",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GQCMN_1`"
+        }   
+    ]
+    "GQCSY_1": [
+        {
+            "name": "**★ (G)I-DLE Soyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GQCSY_1`"
+        }   
+     ]
+    "GQCYQ_1": [
+        {
+            "name": "**★ (G)I-DLE Yuqi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GQCYQ_1`"
         }    
+     ]
+    "GQCSH_1": [
+        {
+            "name": "**★ (G)I-DLE Shuhua**",
+            "image": "",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GQCSH_1`"
+        }               
     ]
 }
     
+            
 
     
 
