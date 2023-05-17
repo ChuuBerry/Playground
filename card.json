@@ -547,7 +547,77 @@
             "inv": "Red Velvet",
             "grade": "1star",
             "code": "`RBRYR_1`"
-        }            
+        }         
+    ],
+    "ODDHJ_1": [
+        {
+            "name": "**★ Oh My Girl Hyojung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDHJ_1`"
+        }             
+    ],
+    "ODDMM_1": [
+        {
+            "name": "**★ Oh My Girl Mimi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDMM_1`"
+        }    
+    ],
+    "ODDYA_1": [
+        {
+            "name": "**★ Oh My Girl Yooa**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDYA_1`"
+        }     
+    ],
+    "ODDSH_1": [
+        {
+            "name": "**★ Oh My Girl Seunghee**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDSH_1`"
+        } 
+    ],
+    "ODDJH_1": [
+        {
+            "name": "**★ Oh My Girl Jiho**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDJH_1`"
+        }     
+    ],
+    "ODDYB_1": [
+        {
+            "name": "**★ Oh My Girl Yubin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDYB_1`"
+        }  
+    ],
+    "ODDAR_1": [
+        {
+            "name": "**★ Oh My Girl Arin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "1star",
+            "code": "`ODDAR_1`"
+        }                 
     ]
 }
     
