@@ -271,7 +271,7 @@
     ],
     "GQCMN_1": [
         {
-            "name": "**★ (G)I-DLE Minnir**",
+            "name": "**★ (G)I-DLE Minnie**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1106941622350000149/Untitled344_20230513214930.png",
             "theme": "card1",
             "inv": "(G)I-DLE",
@@ -447,7 +447,57 @@
             "inv": "Twice",
             "grade": "1star",
             "code": "`TSCTY_1`"
-        }            
+        }       
+    ],
+    "MRHMH_1": [
+        {
+            "name": "**★ Monsta X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1106959027562369124/Untitled347_20230513225752.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "1star",
+            "code": "`MRHMH_1`"
+        }     
+    ],
+    "MRHKH_1": [
+        {
+            "name": "**★ Monsta X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1106959027956629524/Untitled347_20230513225910.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "1star",
+            "code": "`MRHKH_1`"
+        }  
+    ],
+    "MRHHW_1": [
+        {
+            "name": "**★ Monsta X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1106959028325732412/Untitled347_20230513225809.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "1star",
+            "code": "`MRHHW_1`"
+        }   
+    ],
+    "MRHJH_1": [
+        {
+            "name": "**★ Monsta X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1106959028820648006/Untitled347_20230513225830.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "1star",
+            "code": "`MRHJH_1`"
+        }   
+    ],
+    "MRHIM_1": [
+        {
+            "name": "**★ Monsta X IM**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1106959029156200468/Untitled347_20230513225846.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "1star",
+            "code": "`MRHIM_1`"
+        }    
     ]
 }
     
