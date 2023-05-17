@@ -88,6 +88,46 @@
             "grade": "1star",
             "code": "`FTKJH_1`"
         }
+    ],
+    "AGSKR_1": [
+        {
+            "name": "**★ Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1106925759697797201/1106925822381670480/Untitled340_20230513204658.png",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AGSKR_1`"
+        }    
+    ],
+    "AGSGS_1": [
+        {
+            "name": "**★ Aespa Giselle**",
+            "image": "https://media.discordapp.net/attachments/1106925759697797201/1106925822750760961/Untitled340_20230513204703.png",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AGSGS_1`"
+        }    
+    ],
+    "AGSWT_1": [
+        {
+            "name": "**★ Aespa Winter**",
+            "image": "https://media.discordapp.net/attachments/1106925759697797201/1106925823153426492/Untitled340_20230513204647.png",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AGSWT_1`"
+        }    
+    ],
+    "AGSNN_1": [
+        {
+            "name": "**★ Aespa Ningning**",
+            "image": "https://media.discordapp.net/attachments/1106925759697797201/1106925823505743935/Untitled340_20230513204653.png",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AGSNN_1`"
+        }        
     ]
 }
     
