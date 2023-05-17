@@ -128,6 +128,86 @@
             "grade": "1star",
             "code": "`AGSNN_1`"
         }        
+    ],
+    "AGRHJ_1": [
+        {
+            "name": "**★ Ateez Hongjoong**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933264180056144/Untitled342_20230513210920.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRHJ_1`"
+        }
+    ],
+    "AGRSH_1": [
+        {
+            "name": "**★ Ateez Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933264725311550/Untitled342_20230513210814.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRSH_1`"
+        }    
+    ],
+    "AGRYH_1": [
+        {
+            "name": "**★ Ateez Yunho**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933265136361512/Untitled342_20230513211523.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRYH_1`"
+        }
+    ],
+    "AGRYS_1": [
+        {
+            "name": "**★ Ateez Yeosang**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933265513844747/Untitled342_20230513210643.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRYS_1`"
+        } 
+    ],
+    "AGRSN_1": [
+        {
+            "name": "**★ Ateez San**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933266084274186/Untitled342_20230513211153.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRSN_1`"
+        }
+    ],
+    "AGRMG_1": [
+        {
+            "name": "**★ Ateez Mingi**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933266373677127/Untitled342_20230513211402.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRMG_1`"
+        }
+    ],
+    "AGRWY_1": [
+        {
+            "name": "**★ Ateez Wooyoung**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933266751160320/Untitled342_20230513211433.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRWY_1`"
+        }    
+    ],
+    "AGRJH_1": [
+        {
+            "name": "**★ Ateez Jongho**",
+            "image": "https://media.discordapp.net/attachments/1106933170311536740/1106933267367731301/Untitled342_20230513211611.png",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "1star",
+            "code": "`AGRJH_1`"
+        }    
     ]
 }
     
