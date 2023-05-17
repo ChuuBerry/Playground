@@ -307,7 +307,147 @@
             "inv": "(G)I-DLE",
             "grade": "1star",
             "code": "`GQCSH_1`"
-        }               
+        }
+    ],
+    "TSRYJ_1": [
+        {
+            "name": "**★ Tomorrow X Together Yeonjun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSRYJ_1`"
+        }    
+    ],
+    "TSRSB_1": [
+        {
+            "name": "**★ Tomorrow X Together Soobin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSRSB_1`"
+        }   
+    ],
+    "TSRBG_1": [
+        {
+            "name": "**★ Tomorrow X Together Beomgyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSRBG_1`"
+        }    
+    ],
+    "TSRTH_1": [
+        {
+            "name": "**★ Tomorrow X Together Taehyun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSRTH_1`"
+        }  
+    ],
+    "TSRHK_1": [
+        {
+            "name": "**★ Tomorrow X Together Huening Kai**",
+            "image": "",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSRHK_1`"
+        }   
+    ],
+    "TSCNY_1": [
+        {
+            "name": "**★ Twice Nayeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCNY_1`"
+        }        
+    ],
+    "TSCJY_1": [
+        {
+            "name": "**★ Twice Jeongyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCJY_1`"
+        }     
+    ],
+    "TSCMM_1": [
+        {
+            "name": "**★ Twice Momo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCMM_1`"
+        }    
+    ],
+    "TSCSN_1": [
+        {
+            "name": "**★ Twice Sana**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCSN_1`"
+        }     
+    ],
+    "TSCJH_1": [
+        {
+            "name": "**★ Twice Jihyo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCJH_1`"
+        }     
+    ],
+    "TSCMN_1": [
+        {
+            "name": "**★ Twice Mina**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCMN_1`"
+        }    
+    ],
+    "TSCDH_1": [
+        {
+            "name": "**★ Twice Dahyun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCDH_1`"
+        }   
+    ],
+    "TSCCY_1": [
+        {
+            "name": "**★ Twice Chaeyoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCCY_1`"
+        }    
+    ],
+    "TSCTY_1": [
+        {
+            "name": "**★ Twice Tzuyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "1star",
+            "code": "`TSCTY_1`"
+        }            
     ]
 }
     
