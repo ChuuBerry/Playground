@@ -1,4 +1,4 @@
-{
+```{
     "FTKSR_1": [
         {
             "name": "**★ Fromis_9 Saerom**",
@@ -17,7 +17,7 @@
             "inv": "Fromis_9",
             "grade": "1star",
             "code": "`FTKHY_1`"
-         }
+        }
     ],
     "FTKJW_1": [
         {
@@ -76,7 +76,7 @@
             "theme": "card1",
             "inv": "Fromis_9",
             "grade": "1star",
-            "code": "`FTKNG_1`"    
+            "code": "`FTKNG_1`"
         }
     ],
     "FTKJH_1": [
@@ -88,11 +88,8 @@
             "grade": "1star",
             "code": "`FTKJH_1`"
         }
-    ],
-}
-
-    
-
+    ]
+}```
     
 
     
