@@ -718,6 +718,46 @@
             "grade": "1star",
             "code": "`WLSYJ_1`"
         }        
+    ],
+    "STYIN_1": [
+        {
+            "name": "**★ Soloist Taeyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`STYIN_1`"
+        }            
+    ],
+    "SYNLW_1": [
+        {
+            "name": "**★ Soloist Yena**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SYNLW_1`"
+        } 
+    ],
+    "SHSSP_1": [
+        {
+            "name": "**★ Soloist Hoshi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SHSSP_1`"
+        }        
+    ],
+    "SKDTS_1": [
+        {
+            "name": "**★ Soloist Kang Daniel**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SKDTS_1`"
+        }                
     ]
 }
     
