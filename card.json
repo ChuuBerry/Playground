@@ -757,7 +757,77 @@
             "inv": "Soloist",
             "grade": "1star",
             "code": "`SKDTS_1`"
-        }                
+        }       
+    ],
+    "EDFXM_1": [
+        {
+            "name": "**★ EXO Xiumin**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597688896847892/Untitled363_20230518111922.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFXM_1`"
+        }
+    ],
+    "EDFLA_1": [
+        {
+            "name": "**★ EXO Lay**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597689299517531/Untitled363_20230518112311.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFLA_1`"
+        }   
+    ],
+    "EDFBH_1": [
+        {
+            "name": "**★ EXO Baekhyun**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597689697964102/Untitled363_20230518111953.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFBH_1`"
+        }  
+    ],
+    "EDFCY_1": [
+        {
+            "name": "**★ EXO Chanyeol**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597690113196072/Untitled363_20230518112238.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFCY_1`"
+        }    
+    ],
+    "EDFDO_1": [
+        {
+            "name": "**★ EXO D.O.**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597690553602099/Untitled363_20230518112210.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFDO_1`"
+        }    
+    ],
+    "EDFKA_1": [
+        {
+            "name": "**★ EXO Kai**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597690993999922/Untitled363_20230518112017.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFKA_1`"
+        }    
+    ],
+    "EDFSH_1": [
+        {
+            "name": "**★ EXO Sehun**",
+            "image": "https://media.discordapp.net/attachments/1108595924441251881/1108597691421835314/Untitled363_20230518111848.png",
+            "theme": "card1",
+            "inv": "EXO",
+            "grade": "1star",
+            "code": "`EDFSH_1`"
+        }    
     ]
 }
     
