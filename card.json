@@ -827,7 +827,257 @@
             "inv": "EXO",
             "grade": "1star",
             "code": "`EDFSH_1`"
+        }     
+    ],
+    "TGHSY_1": [
+        {
+            "name": "**★ THE BOYZ Sangyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHSY_1`"
         }    
+    ],
+    "TGHJC_1": [
+        {
+            "name": "**★ THE BOYZ Jacob**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHJC_1`" 
+         }   
+    ],
+    "TGHYH_1": [
+        {
+            "name": "**★ THE BOYZ Younghoon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHYH_1`"
+        }  
+    ],
+    "TGHHJ_1": [
+        {
+            "name": "**★ THE BOYZ Hyunjae**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHHJ_1`"
+        } 
+    ],
+    "TGHJY_1": [
+        {
+            "name": "**★ THE BOYZ Juyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHJY_1`"
+        } 
+    ],
+    "TGHKV_1": [
+        {
+            "name": "**★ THE BOYZ Kevin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHKV_1`"
+        }   
+    ],
+    "TGHNE_1": [
+        {
+            "name": "**★ THE BOYZ New**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHNE_1`"
+        }        
+    ],
+    "TGHJQ_1": [
+        {
+            "name": "**★ THE BOYZ Q**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHJQ_1`"
+        } 
+    ],
+    "TGHJH_1": [
+        {
+            "name": "**★ THE BOYZ Juhaknyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHJH_1`"
+        }   
+    ],
+    "TGHHW_1": [
+        {
+            "name": "**★ THE BOYZ Hwall**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHHW_1`"
+        }      
+    ],
+    "TGHSW_1": [
+        {
+            "name": "**★ THE BOYZ Sunwoo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHSW_1`"
+        }   
+    ],
+    "TGHER_1": [
+        {
+            "name": "**★ THE BOYZ Eric**",
+            "image": "",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "`TGHER_1`"
+        }  
+    ],
+    "SHOSC_1": [
+        {
+            "name": "**★ Seventeen S.Coups**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOSC_1`"
+        }   
+    ],
+    "SHOJH_1": [
+        {
+            "name": "**★ Seventeen Jeonghan**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOJH_1`"
+        }  
+    ],
+    "SHOJS_1": [
+        {
+            "name": "**★ Seventeen Joshua**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOJS_1`"
+        }  
+    ],
+    "SHOJU_1": [
+        {
+            "name": "**★ Seventeen Jun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOJU_1`"
+        }  
+    ],
+    "SHOHS_1": [
+        {
+            "name": "**★ Seventeen Hoshi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOSH_1`"
+        }   
+    ],
+    "SHOWW_1": [
+        {
+            "name": "**★ Seventeen Wonwoo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOWW_1`"
+        }  
+    ],
+    "SHOWZ_1": [
+        {
+            "name": "**★ Seventeen Woozi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOWZ_1`"
+        }     
+    ],
+    "SHODK_1": [
+        {
+            "name": "**★ Seventeen DK**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHODK_1`"
+        }  
+    ],
+    "SHOMG_1": [
+        {
+            "name": "**★ Seventeen Mingyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOMG_1`"
+        }     
+    ],
+    "SHOTH_1": [
+        {
+            "name": "**★ Seventeen The8**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOTH_1`"
+        }       
+    ],
+    "SHOSK_1": [
+        {
+            "name": "**★ Seventeen Seungkwan**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOSK_1`"
+        }      
+    ],
+    "SHOVN_1": [
+        {
+            "name": "**★ Seventeen Vernon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHOVN_1`"
+        }       
+    ],
+    "SHODN_1": [
+        {
+            "name": "**★ Seventeen Dino**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHODN_1`"
+        }       
     ]
 }
     
