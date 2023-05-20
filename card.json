@@ -1079,14 +1079,14 @@
             "code": "`SHODN_1`"
         }       
     ],
-    "SBMSM": [
+    "SBMSM_1": [
         {
             "name": "**★★★★★ StayC Sumin**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273201722281984/Untitled371_Restored_20230520081318.png",
             "theme": "card1",
             "inv": "Stayc",
             "grade": "5star",
-            "code": "`SBMSM`"
+            "code": "`SBMSM_1`"
         }           
     ]
 }
