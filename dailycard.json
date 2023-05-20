@@ -1,57 +1,57 @@
 {
     "SBMSM_1": [
         {
-            "name": "**★★★★★ StayC Sumin**",
+            "name": "**★★★★★ STAYC Sumin**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273201722281984/Untitled371_Restored_20230520081318.png",
             "theme": "card1",
-            "inv": "StayC",
+            "inv": "STAYC",
             "grade": "5star",
             "code": "`SBMSM_1`"
         }           
     ],
     "SBMSI_1": [
         {
-            "name": "**★★★★★ StayC Sieun**",
+            "name": "**★★★★★ STAYC Sieun**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202158473256/Untitled371_Restored_20230520081328.png",
             "theme": "card1",
-            "inv": "StayC",
+            "inv": "STAYC",
             "grade": "5star",
             "code": "`SBMSI_1`"
         }               
     ],
     "SBMIS_1": [
         {
-            "name": "**★★★★★ StayC Isa**",
+            "name": "**★★★★★ STAYC Isa**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202443702395/Untitled371_Restored_20230520081337.png",
             "theme": "card1",
-            "inv": "StayC",
+            "inv": "STAYC",
             "grade": "5star",
             "code": "`SBMIS_1`"
         }           
     ],
     "SBMSE_1": [
         {
-            "name": "**★★★★★ StayC Seeun**",
+            "name": "**★★★★★ STAYC Seeun**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202766659604/Untitled371_Restored_20230520081345.png",
             "theme": "card1",
-            "inv": "StayC",
+            "inv": "STAYC",
             "grade": "5star",
             "code": "`SBMSE_1`"
         }         
     ],
     "SBMYO_1": [
         {
-            "name": "**★★★★★ StayC Sieun**",
+            "name": "**★★★★★ STAYC Yoon**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273203110596678/Untitled371_Restored_20230520081354.png",
             "theme": "card1",
-            "inv": "StayC",
+            "inv": "STAYC",
             "grade": "5star",
             "code": "`SBMYO_1`"
         }          
     ],
     "SBMJJ_1": [
         {
-            "name": "**★★★★★ StayC J**",
+            "name": "**★★★★★ STAYC J**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273203488079892/Untitled371_Restored_20230520081404.png",
             "theme": "card1",
             "inv": "StayC",
