@@ -1084,10 +1084,20 @@
             "name": "**★★★★★ StayC Sumin**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273201722281984/Untitled371_Restored_20230520081318.png",
             "theme": "card1",
-            "inv": "Stayc",
+            "inv": "StayC",
             "grade": "5star",
             "code": "`SBMSM_1`"
         }           
+    ],
+    "CSRSR_1": [
+        {
+            "name": "**★★★★★ Cravity Serim**",
+            "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273126719729684/Untitled368_20230520081101.png",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "5star",
+            "code": "`CSRSR_1`"
+        }               
     ]
 }
     
