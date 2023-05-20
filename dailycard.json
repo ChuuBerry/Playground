@@ -57,8 +57,18 @@
             "inv": "StayC",
             "grade": "5star",
             "code": "`SBMJJ_1`"
-          }          
+          }         
     ],
+    "CSRSR_1": [
+                "name": "**★★★★★ Cravity Serim**",
+            "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273126719729684/Untitled368_20230520081101.png",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "5star",
+            "code": "`CSRSR_1`"
+        }                       
+    ],
+    "CSRAL_1": [
                 "name": "**★★★★★ Cravity Allen**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273127223050240/Untitled368_20230520081108.png",
             "theme": "card1",
@@ -105,7 +115,19 @@
             "inv": "Cravity",
             "grade": "5star",
             "code": "`CSRMH_1`"
-        }             
+        }         
+    ],
+    "CSRHJ_1": [
+        {
+            "name": "**★★★★★ Cravity Hyeongjun**",
+            "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273129731244032/Untitled368_20230520081154.png",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "5star",
+            "code": "`CSRHJ_1` 
+              }         
+    ],
+    "CSRTY_1": [   
               {
             "name": "**★★★★★ Cravity Taeyoung**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273130091946094/Untitled368_20230520081204.png",
