@@ -1267,7 +1267,17 @@
             "inv": "Blackpink",
             "grade": "5star",
             "code": "`BSDRS_1`"
-        }         
+        }        
+    ],
+    "EBMHS_1": [
+        {
+            "name": "**★ Enhypen Heeseung**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702349661941760/Untitled376_20230521123946.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EBMHS_1`"
+        }        
     ]
 }
     
