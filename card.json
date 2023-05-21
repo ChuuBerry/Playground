@@ -1275,9 +1275,179 @@
             "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702349661941760/Untitled376_20230521123946.png",
             "theme": "card1",
             "inv": "Enhypen",
-            "grade": "5star",
+            "grade": "1star",
             "code": "`EBMHS_1`"
         }        
+    ],
+    "EBMJA_1": [
+        {
+            "name": "**★ Enhypen Jay**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702350026838016/Untitled376_20230521123940.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMJA_1`"
+        }
+    ],
+    "EBMJK_1": [
+        {
+            "name": "**★ Enhypen Jake**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702350408536115/Untitled376_20230521123932.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMJK_1`"
+        }  
+    ],
+    "EBMSH_1": [
+        {
+            "name": "**★ Enhypen Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702350957981797/Untitled376_20230521123925.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMSH_1`"
+        }  
+    ],
+    "EBMJW_1": [
+        {
+            "name": "**★ Enhypen Jungwon**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702351339671646/Untitled376_20230521123919.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMJW_1`"
+        }    
+    ],
+    "EBMSN_1": [
+        {
+            "name": "**★ Enhypen Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702351717142568/Untitled376_20230521123911.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMSM_1`"
+        }    
+    ],
+    "EBMNK_1": [
+        {
+            "name": "**★ Enhypen Niki**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1109702352082055289/Untitled376_20230521123901.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "1star",
+            "code": "`EBMNK_1`"   
+         }   
+    ],
+    "LUNCH_1": [
+        {
+            "name": "**★ Le Sserafim Kim Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1109795654257102868/Untitled378_20230521185042.png",
+            "theme": "card1",
+            "inv": "Le Sserafim",
+            "grade": "1star",
+            "code": "`LUNCH_1`"   
+         }       
+    ],
+    "LUNSK_1": [
+        {
+            "name": "**★ Le Sserafim Sakura**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1109795654542303272/Untitled378_20230521185049.png",
+            "theme": "card1",
+            "inv": "Le Sserafim",
+            "grade": "1star",
+            "code": "`LUNSK_1`"   
+         }  
+    ],
+    "LUNYJ_1": [
+        {
+            "name": "**★ Le Sserafim Huh Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1109795654877843556/Untitled378_20230521185055.png",
+            "theme": "card1",
+            "inv": "Le Sserafim",
+            "grade": "1star",
+            "code": "`LUNYJ_1`"   
+         }           
+    ],
+    "LUNKZ_1": [
+        {
+            "name": "**★ Le Sserafim Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1109795655213404230/Untitled378_20230521185100.png",
+            "theme": "card1",
+            "inv": "Le Sserafim",
+            "grade": "1star",
+            "code": "`LUNKZ_1`"   
+         } 
+    ],
+    "LUNEC_1": [
+        {
+            "name": "**★ Le Sserafim Hong Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1109795655926423562/Untitled378_20230521185107.png",
+            "theme": "card1",
+            "inv": "Le Sserafim",
+            "grade": "1star",
+            "code": "`LUNEC_1`"   
+         }    
+    ],
+    "NLMLL_1": [
+        {
+            "name": "**★ NMIXX Lily**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791428076388352/Untitled377_20230521183307.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMLL_1`"   
+         }           
+    ],
+    "NLMHW_1": [
+        {
+            "name": "**★ NMIXX Haewon**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791428395139172/Untitled377_20230521183259.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMHW_1`"   
+         }    
+    ],
+    "NLMSY_1": [
+        {
+            "name": "**★ NMIXX Sullyoon**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791428768448562/Untitled377_20230521183252.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMSY_1`"   
+         }  
+    ],
+    "NLMBA_1": [
+        {
+            "name": "**★ NMIXX Bae**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791429171093524/Untitled377_20230521183238.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMBA_1`"   
+         }     
+    ],
+    "NLMJW_1": [
+        {
+            "name": "**★ NMIXX Jiwoo**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791429494046730/Untitled377_20230521183245.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMJW_1`"   
+         }   
+    ],
+    "NLMKJ_1": [
+        {
+            "name": "**★ NMIXX Kyujin**",
+            "image": "https://media.discordapp.net/attachments/1109678108828762112/1109791429821218876/Untitled377_20230521183231.png",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLMKJ_1`"   
+         }               
     ]
 }
     
