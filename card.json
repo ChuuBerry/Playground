@@ -1227,7 +1227,47 @@
             "inv": "Cravity",
             "grade": "5star",
             "code": "`CSRSM_1`"
-        }                        
+        }
+    ],
+    "BSDJS_1": [
+        {
+            "name": "**★★★★★ Blackpink Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678601709813810/Untitled375_20230521110239.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "5star",
+            "code": "`BSDJS_1`"
+        }    
+    ],
+    "BSDJN_1": [
+        {
+            "name": "**★★★★★ Blackpink Jennie**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602070532136/Untitled375_20230521110247.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "5star",
+            "code": "`BSDJN_1`"
+        }    
+    ],
+    "BSDLS_1": [
+        {
+            "name": "**★★★★★ Blackpink Lisa**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602452205658/Untitled375_20230521110302.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "5star",
+            "code": "`BSDLS_1`"
+        }       
+    ],
+    "BSDRS_1": [
+        {
+            "name": "**★★★★★ Blackpink Rosé**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602867449887/Untitled375_20230521110255.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "5star",
+            "code": "`BSDRS_1`"
+        }         
     ]
 }
     
