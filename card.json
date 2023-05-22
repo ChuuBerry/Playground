@@ -1697,7 +1697,87 @@
             "inv": "Soloist",
             "grade": "1star",
             "code": "`SMAGH_1`"   
-         }                       
+         }      
+    ],
+    "SCOBC_1": [
+        {
+            "name": "**★★★★★ Stray Kids Bang Chan**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730153513050/Untitled382_20230522131533.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOBC_1`"   
+         }
+    ],
+    "SCOLK_1": [
+        {
+            "name": "**★★★★★ Stray Kids Lee Know**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730539380756/Untitled382_20230522131604.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOLK_1`"   
+         }    
+    ],
+    "SCOCB_1": [
+        {
+            "name": "**★★★★★ Stray Kids Changbin**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730929442908/Untitled382_20230522131641.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOCB_1`"   
+         }    
+    ],
+    "SCOHJ_1": [
+        {
+            "name": "**★★★★★ Stray Kids Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078731390832662/Untitled382_20230522131710.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOHJ_1`"   
+         }    
+    ],
+    "SCOHA_1": [
+        {
+            "name": "**★★★★★ Stray Kids Han**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078731835420713/Untitled382_20230522131738.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOHA_1`"   
+         }       
+    ],
+    "SCOFL_1": [
+        {
+            "name": "**★★★★★ Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078732342939708/Untitled382_20230522132152.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOFL_1`"   
+         }      
+    ],
+    "SCOSM_1": [
+        {
+            "name": "**★★★★★ Stray Kids Seungmin**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078732833665045/Untitled382_20230522132220.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOSM_1`"   
+         }      
+    ],
+    "SCOIN_1": [
+        {
+            "name": "**★★★★★ Stray Kids IN**",
+            "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078733253103616/Untitled382_20230522132241.png",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "5star",
+            "code": "`SCOIN_1`"   
+         }        
     ]
 }
     
