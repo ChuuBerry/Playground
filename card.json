@@ -1447,7 +1447,257 @@
             "inv": "NMIXX",
             "grade": "1star",
             "code": "`NLMKJ_1`"   
+         }       
+    ],
+    "CPRSR_1": [
+        {
+            "name": "**★ Cravity Serim**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRSR_1`"   
+         }
+    ],
+    "CPRAL_1": [
+        {
+            "name": "**★ Cravity Allen**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRAL_1`"   
+          }
+    ],
+    "CPRJM_1": [
+        {
+            "name": "**★ Cravity Jungmo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRJM_1`"   
+          }   
+    ],
+    "CPRWB_1": [
+        {
+            "name": "**★ Cravity Woobin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRWB_1`"   
+          }    
+    ],
+    "CPRWJ_1": [
+        {
+            "name": "**★ Cravity Wonjin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRWJ_1`"   
+          }    
+    ],
+    "CPRMH_1": [
+        {
+            "name": "**★ Cravity Minhee**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRMH_1`"   
+          }    
+    ],
+    "CPRHJ_1": [
+        {
+            "name": "**★ Cravity Hyeongjun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRHJ_1`"   
+          }  
+    ],
+    "CPRTY_1": [
+        {
+            "name": "**★ Cravity Taeyoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRTY_1`"   
+          }    
+    ],
+    "CPRSM_1": [
+        {
+            "name": "**★ Cravity Seongmin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Cravity",
+            "grade": "1star",
+            "code": "`CPRSM_1`"   
+          }    
+    ],
+    "ITMYJ_1": [
+        {
+            "name": "**★ ITZY Yeji**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ITMYJ_1`"   
+          }    
+    ],
+    "ITMLA_1": [
+        {
+            "name": "**★ ITZY Lia**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ITMLA_1`"   
+         }
+    ],
+    "ITMRJ_1": [
+        {
+            "name": "**★ ITZY Ryujin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ITMRJ_1`"   
+         }           
+    ],
+    "ITMCY_1": [
+        {
+            "name": "**★ ITZY Chaeryeong**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ITMCY_1`"   
+         }      
+    ],
+    "ITMYN_1": [
+        {
+            "name": "**★ ITZY Yuna**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ITMYN_1`"   
+         }         
+    ],
+    "NGMMA_1": [
+        {
+            "name": "**★ NCT Dream Mark**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMMA_1`"   
          }               
+    ],
+    "NGMRJ_1": [
+        {
+            "name": "**★ NCT Dream Renjun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMRJ_1`"   
+         }    
+    ],
+    "NGMJN_1": [
+        {
+            "name": "**★ NCT Dream Jeno**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMJN_1`"   
+         }      
+    ],
+    "NGMHC_1": [
+        {
+            "name": "**★ NCT Dream Haechan**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMHC_1`"   
+         }      
+    ],
+    "NGMJM_1": [
+        {
+            "name": "**★ NCT Dream Jaemin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMJM_1`"   
+         }       
+    ],
+    "NGMCL_1": [
+        {
+            "name": "**★ NCT Dream Chenle**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMCL_1`"   
+         }        
+    ],
+    "NGMJS_1": [
+        {
+            "name": "**★ NCT Dream Jisung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "1star",
+            "code": "`NGMJS_1`"   
+         }     
+    ],
+    "SCYKN_1": [
+        {
+            "name": "**★ Soloist Lee Chaeyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SCYKN_1`"   
+         }                   
+    ],
+    "SYJPL_1": [
+        {
+            "name": "**★ Soloist Yuju**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SYJPL_1`"   
+         }     
+    ],
+    "SDORO_1": [
+        {
+            "name": "**★ Soloist D.O.**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SDORO_1`"   
+         }      
+    ],
+    "SMAGH_1": [
+        {
+            "name": "**★ Soloist Mark**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMAGH_1`"   
+         }                       
     ]
 }
     
