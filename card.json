@@ -1778,6 +1778,56 @@
             "grade": "5star",
             "code": "`SCOIN_1`"   
          }        
+    ],
+    "LFBCW_1": [
+        {
+            "name": "**Limited ★★★★★ Le Sserafim Kim Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228805324374106/Untitled383_20230522232708.png",
+            "theme": "card1",
+            "inv": "LE Sserafim",
+            "grade": "5star",
+            "code": "`LFBCW_1`"   
+         }            
+    ],
+    "LFBSK_1": [
+        {
+            "name": "**Limited ★★★★★ Le Sserafim Sakura**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228805697671248/Untitled383_20230522232802.png",
+            "theme": "card1",
+            "inv": "LE Sserafim",
+            "grade": "5star",
+            "code": "`LFBSK_1`"   
+         }     
+    ],
+    "LFBYJ_1": [
+        {
+            "name": "**Limited ★★★★★ Le Sserafim Huh Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806070972426/Untitled383_20230522232617.png",
+            "theme": "card1",
+            "inv": "LE Sserafim",
+            "grade": "5star",
+            "code": "`LFBYJ_1`"   
+         }   
+    ],
+    "LFBKZ_1": [
+        {
+            "name": "**Limited ★★★★★ Le Sserafim Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806473613352/Untitled383_20230522232918.png",
+            "theme": "card1",
+            "inv": "LE Sserafim",
+            "grade": "5star",
+            "code": "`LFBKZ_1`"   
+         }         
+    ],
+    "LFBEC_1": [
+        {
+            "name": "**Limited ★★★★★ Le Sserafim Hong Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806792384632/Untitled383_20230522232842.png",
+            "theme": "card1",
+            "inv": "LE Sserafim",
+            "grade": "5star",
+            "code": "`LFBEC_1`"   
+         }                
     ]
 }
     
