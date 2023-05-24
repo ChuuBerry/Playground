@@ -367,6 +367,36 @@
             "inv": "CIX",
             "grade": "5star",
             "code": "`CSMHS_1`"   
-         }          
+         }        
+    ],
+    "NPFDY_1": [
+        {
+            "name": "**★★★★★ NCT DoJaeJung Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852003657154560/Untitled385_20230524164829.png",
+            "theme": "card1",
+            "inv": "NCT DoJaeJung",
+            "grade": "5star",
+            "code": "`NPFDY_1`"
+        }                   
+    ],
+    "NPFJH_1": [
+        {
+            "name": "**★★★★★ NCT DoJaeJung Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852004072411167/Untitled385_20230524164836.png",
+            "theme": "card1",
+            "inv": "NCT DoJaeJung",
+            "grade": "5star",
+            "code": "`NPFJH_1`"
+        }     
+    ],
+    "NPFJW_1": [
+        {
+            "name": "**★★★★★ NCT DoJaeJung Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852004496031924/Untitled385_20230524164843.png",
+            "theme": "card1",
+            "inv": "NCT DoJaeJung",
+            "grade": "5star",
+            "code": "`NPFJW_1`"
+        }                       
     ]
 }
