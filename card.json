@@ -1952,12 +1952,112 @@
     "PDIKH_1": [
         {
             "name": "**1★ P1harmony Keeho**",
-            "image": "https://media.discordapp.net/attachments/1110849530020241439/1110962718858563604/Untitled387_20230525000708.png",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300705232371824/Untitled388_20230525222940.png",
             "theme": "card1",
             "inv": "P1harmony",
             "grade": "1star",
             "code": "`PDIKH_1`"
-        }                
+        }
+    ],
+    "PDITH_1": [
+        {
+            "name": "**1★ P1harmony Theo**",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300705651806228/Untitled388_20230525222840.png",
+            "theme": "card1",
+            "inv": "P1harmony",
+            "grade": "1star",
+            "code": "`PDITH_1`"
+        }    
+    ],
+    "PDIJU_1": [
+        {
+            "name": "**1★ P1harmony Jiung**",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300705999913080/Untitled388_20230525222708.png",
+            "theme": "card1",
+            "inv": "P1harmony",
+            "grade": "1star",
+            "code": "`PDIJU_1`"
+        }    
+    ],
+    "PDIIT_1": [
+        {
+            "name": "**1★ P1harmony Intak**",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300706389999746/Untitled388_20230525222714.png",
+            "theme": "card1",
+            "inv": "P1harmony",
+            "grade": "1star",
+            "code": "`PDIIT_1`"
+        }    
+    ],
+    "PDISO_1": [
+        {
+            "name": "**1★ P1harmony Soul**",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300707136569424/Untitled388_20230525223056.png",
+            "theme": "card1",
+            "inv": "P1harmony",
+            "grade": "1star",
+            "code": "`PDISO_1`"
+        }    
+    ],
+    "PDIJS_1": [
+        {
+            "name": "**1★ P1harmony Jongseob**",
+            "image": "https://media.discordapp.net/attachments/1111300500512575568/1111300707136569424/Untitled388_20230525223056.png",
+            "theme": "card1",
+            "inv": "P1harmony",
+            "grade": "1star",
+            "code": "`PDIJS_1`"
+        }    
+    ],
+    "MICCJ_1": [
+        {
+            "name": "**1★ MCND Castle J**",
+            "image": "https://media.discordapp.net/attachments/1111389716210782310/1111389933656080394/Untitled389_20230526042234.png",
+            "theme": "card1",
+            "inv": "MCND",
+            "grade": "1star",
+            "code": "`MICCJ_1`"
+        }   
+    ],
+    "MICBI_1": [
+        {
+            "name": "**1★ MCND Bic**",
+            "image": "https://media.discordapp.net/attachments/1111389716210782310/1111389934209744926/Untitled389_20230526042338.png",
+            "theme": "card1",
+            "inv": "MCND",
+            "grade": "1star",
+            "code": "`MICBI_1`"
+        }       
+    ],
+    "MICMJ_1": [
+        {
+            "name": "**1★ MCND Minjae**",
+            "image": "https://media.discordapp.net/attachments/1111389716210782310/1111389934583025754/Untitled389_20230526042302.png",
+            "theme": "card1",
+            "inv": "MCND",
+            "grade": "1star",
+            "code": "`MICMJ_1`"
+        }   
+    ],
+    "MICHJ_1": [
+        {
+            "name": "**1★ MCND Huijun**",
+            "image": "https://media.discordapp.net/attachments/1111389716210782310/1111389934935343134/Untitled389_20230526042501.png",
+            "theme": "card1",
+            "inv": "MCND",
+            "grade": "1star",
+            "code": "`MICHJ_1`"
+        }      
+    ],
+    "MICWI_1": [
+        {
+            "name": "**1★ MCND Win**",
+            "image": "https://media.discordapp.net/attachments/1111389716210782310/1111389935283486871/Untitled389_20230526042512.png",
+            "theme": "card1",
+            "inv": "MCND",
+            "grade": "1star",
+            "code": "`MICWI_1`"
+        }           
     ]
 }
     
