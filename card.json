@@ -2058,7 +2058,116 @@
             "grade": "1star",
             "code": "`MICMJ_1`"
         }       
-    
+    ],
+    "IKTAY_1": [
+        {
+            "name": "**1★ IVE An Yujin**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489951188652042/Untitled390_20230526105950.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTAY_1`"
+        }       
+    ],
+    "IKTGE_1": [
+        {
+            "name": "**1★ IVE Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489951603892234/Untitled390_20230526110028.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTGE_1`"
+        }       
+    ],
+    "IKTRE_1": [
+        {
+            "name": "**1★ IVE Rei**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489951952015471/Untitled390_20230526110101.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTRE_1`"
+        }    
+    ],
+    "IKTJW_1": [
+        {
+            "name": "**1★ IVE Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489952212066304/Untitled390_20230526105919.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTJW_1`"
+        } 
+    ],
+    "IKTLZ_1": [
+        {
+            "name": "**1★ IVE Liz**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489952522453073/Untitled390_20230526110134.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTLZ_1`"
+        }     
+    ],
+    "IKTLS_1": [
+        {
+            "name": "**1★ IVE Leesep**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1111489952941871155/Untitled390_20230526110159.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`IKTLS_1`"
+        }    
+    ],
+    "NOMMJ_1": [
+        {
+            "name": "**1★ NewJeans Minji**",
+            "image": "https://media.discordapp.net/attachments/1111397258609565716/1111501612784042044/Untitled391_20230526113733.png",
+            "theme": "card1",
+            "inv": "NewJeans",
+            "grade": "1star",
+            "code": "`NOMMJ_1`"
+        }           
+    ],
+    "NOMHN_1": [
+        {
+            "name": "**1★ NewJeans Hanni**",
+            "image": "https://media.discordapp.net/attachments/1111397258609565716/1111501613077627022/Untitled391_20230526113744.png",
+            "theme": "card1",
+            "inv": "NewJeans",
+            "grade": "1star",
+            "code": "`NOMHM_1`"
+        }       
+    ],
+    "NOMDN_1": [
+        {
+            "name": "**1★ NewJeans Danielle**",
+            "image": "https://media.discordapp.net/attachments/1111397258609565716/1111501613480296519/Untitled391_20230526113750.png",
+            "theme": "card1",
+            "inv": "NewJeans",
+            "grade": "1star",
+            "code": "`NOMDN_1`"
+        }   
+    ],
+    "NOMHR_1": [
+        {
+            "name": "**1★ NewJeans Haerin**",
+            "image": "https://media.discordapp.net/attachments/1111397258609565716/1111501613908099154/Untitled391_20230526113904.png",
+            "theme": "card1",
+            "inv": "NewJeans",
+            "grade": "1star",
+            "code": "`NOMHR_1`"
+        }
+    ],
+    "NOMHI_1": [
+        {
+            "name": "**1★ NewJeans Hyein**",
+            "image": "https://media.discordapp.net/attachments/1111397258609565716/1111501614222676008/Untitled391_20230526113912.png",
+            "theme": "card1",
+            "inv": "NewJeans",
+            "grade": "1star",
+            "code": "`NOMHI_1`"
+        }    
     ]
 }
     
