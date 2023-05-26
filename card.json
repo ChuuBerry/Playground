@@ -2168,6 +2168,46 @@
             "grade": "1star",
             "code": "`NOMHI_1`"
         }    
+    ],
+    "SIULL_1": [
+        {
+            "name": "**1★ Soloist IU**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1111660167931641916/Untitled392_20230526221241.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SIULL_1`"
+        }       
+    ],
+    "SJYGS_1": [
+        {
+            "name": "**1★ Soloist Jo Yuri**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1111660168200073236/Untitled392_20230526221525.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SJYGS_1`"
+        }    
+    ],
+    "STNPM_1": [
+        {
+            "name": "**1★ Soloist Ten**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1111660168636272753/Untitled392_20230526221731.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`STNPM_1`"
+        }    
+    ],
+    "SWHOM_1": [
+        {
+            "name": "**1★ Soloist Wonho**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1111660171148673094/Untitled392_20230526221934.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SWHOM_1`"
+        }           
     ]
 }
     
