@@ -1089,184 +1089,184 @@
             "code": "`SBMSM_1`"
         }           
     ],
-    "SBMSI_1": [
+    "SBMSI_5": [
         {
             "name": "**5★ STAYC Sieun**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202158473256/Untitled371_Restored_20230520081328.png",
             "theme": "card1",
             "inv": "STAYC",
             "grade": "5star",
-            "code": "`SBMSI_1`"
+            "code": "`SBMSI_5`"
         }               
     ],
-    "SBMIS_1": [
+    "SBMIS_5": [
         {
             "name": "**5★ STAYC Isa**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202443702395/Untitled371_Restored_20230520081337.png",
             "theme": "card1",
             "inv": "STAYC",
             "grade": "5star",
-            "code": "`SBMIS_1`"
+            "code": "`SBMIS_5`"
         }           
     ],
-    "SBMSE_1": [
+    "SBMSE_5": [
         {
             "name": "**5★ STAYC Seeun**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273202766659604/Untitled371_Restored_20230520081345.png",
             "theme": "card1",
             "inv": "STAYC",
             "grade": "5star",
-            "code": "`SBMSE_1`"
+            "code": "`SBMSE_5`"
         }         
     ],
-    "SBMYO_1": [
+    "SBMYO_5": [
         {
             "name": "**5★ STAYC Yoon**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273203110596678/Untitled371_Restored_20230520081354.png",
             "theme": "card1",
             "inv": "STAYC",
             "grade": "5star",
-            "code": "`SBMYO_1`"
+            "code": "`SBMYO_5`"
         }          
     ],
-    "SBMJJ_1": [
+    "SBMJJ_5": [
         {
             "name": "**5★ STAYC J**",
             "image": "https://media.discordapp.net/attachments/1109155416350412810/1109273203488079892/Untitled371_Restored_20230520081404.png",
             "theme": "card1",
             "inv": "STAYC",
             "grade": "5star",
-            "code": "`SBMJJ_1`"
+            "code": "`SBMJJ_5`"
         }                   
     ],
-    "CSRSR_1": [
+    "CSRSR_5": [
         {
             "name": "**5★ Cravity Serim**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273126719729684/Untitled368_20230520081101.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRSR_1`"
+            "code": "`CSRSR_5`"
         }               
     ],
-    "CSRAL_1": [
+    "CSRAL_5": [
         {
             "name": "**5★ Cravity Allen**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273127223050240/Untitled368_20230520081108.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRAL_1`"
+            "code": "`CSRAL_5`"
         }                    
     ],
-    "CSRJM_1": [
+    "CSRJM_5": [
         {
             "name": "**5★ Cravity Jungmo**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273127617306654/Untitled368_20230520081118.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRJM_1`"
+            "code": "`CSRJM_5`"
         }       
     ],
-    "CSRWB_1": [
+    "CSRWB_5": [
         {
             "name": "**5★ Cravity Woobin**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273128154181712/Untitled368_20230520081124.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRWB_1`"
+            "code": "`CSRWB_5`"
         }      
     ],
-    "CSRWJ_1": [
+    "CSRWJ_5": [
         {
             "name": "**5★ Cravity Wonjin**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273128577802300/Untitled368_20230520081132.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRWJ_1`"
+            "code": "`CSRWJ_5`"
         }    
     ],
-    "CSRMH_1": [
+    "CSRMH_5": [
         {
             "name": "**5★ Cravity Minhee**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273129039179796/Untitled368_20230520081140.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRMH_1`"
+            "code": "`CSRMH_5`"
         }             
     ],
-    "CSRHJ_1": [
+    "CSRHJ_5": [
         {
             "name": "**5★ Cravity Hyeongjun**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273129731244032/Untitled368_20230520081154.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRHJ_1`"
+            "code": "`CSRHJ_5`"
         }     
     ],
-    "CSRTY_1": [
+    "CSRTY_5": [
         {
             "name": "**5★ Cravity Taeyoung**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273130091946094/Untitled368_20230520081204.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRTY_1`"
+            "code": "`CSRTY_5`"
         }            
     ],
-    "CSRSM_1": [
+    "CSRSM_5": [
         {
             "name": "**5★ Cravity Seongmin**",
             "image": "https://media.discordapp.net/attachments/1109129302613704756/1109273130440077462/Untitled368_20230520081212.png",
             "theme": "card1",
             "inv": "Cravity",
             "grade": "5star",
-            "code": "`CSRSM_1`"
+            "code": "`CSRSM_5`"
         }
     ],
-    "BSDJS_1": [
+    "BSDJS_5": [
         {
             "name": "**5★ Blackpink Jisoo**",
             "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678601709813810/Untitled375_20230521110239.png",
             "theme": "card1",
             "inv": "Blackpink",
             "grade": "5star",
-            "code": "`BSDJS_1`"
+            "code": "`BSDJS_5`"
         }    
     ],
-    "BSDJN_1": [
+    "BSDJN_5": [
         {
             "name": "**5★ Blackpink Jennie**",
             "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602070532136/Untitled375_20230521110247.png",
             "theme": "card1",
             "inv": "Blackpink",
             "grade": "5star",
-            "code": "`BSDJN_1`"
+            "code": "`BSDJN_5`"
         }    
     ],
-    "BSDLS_1": [
+    "BSDLS_5": [
         {
             "name": "**5★ Blackpink Lisa**",
             "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602867449887/Untitled375_20230521110255.png",
             "theme": "card1",
             "inv": "Blackpink",
             "grade": "5star",
-            "code": "`BSDLS_1`"
+            "code": "`BSDLS_5`"
         }       
     ],
-    "BSDRS_1": [
+    "BSDRS_5": [
         {
             "name": "**5★ Blackpink Rosé**",
             "image": "https://media.discordapp.net/attachments/1109677940637171773/1109678602452205658/Untitled375_20230521110302.png",
             "theme": "card1",
             "inv": "Blackpink",
             "grade": "5star",
-            "code": "`BSDRS_1`"
+            "code": "`BSDRS_5`"
         }        
     ],
     "EBMHS_1": [
@@ -1699,254 +1699,254 @@
             "code": "`SMAGH_1`"   
          }      
     ],
-    "SCOBC_1": [
+    "SCOBC_5": [
         {
             "name": "**5★ Stray Kids Bang Chan**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730153513050/Untitled382_20230522131533.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOBC_1`"   
+            "code": "`SCOBC_5`"   
          }
     ],
-    "SCOLK_1": [
+    "SCOLK_5": [
         {
             "name": "**5★ Stray Kids Lee Know**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730539380756/Untitled382_20230522131604.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOLK_1`"   
+            "code": "`SCOLK_5`"   
          }    
     ],
-    "SCOCB_1": [
+    "SCOCB_5": [
         {
             "name": "**5★ Stray Kids Changbin**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078730929442908/Untitled382_20230522131641.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOCB_1`"   
+            "code": "`SCOCB_5`"   
          }    
     ],
-    "SCOHJ_1": [
+    "SCOHJ_5": [
         {
             "name": "**5★ Stray Kids Hyunjin**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078731390832662/Untitled382_20230522131710.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOHJ_1`"   
+            "code": "`SCOHJ_5`"   
          }    
     ],
-    "SCOHA_1": [
+    "SCOHA_5": [
         {
             "name": "**5★ Stray Kids Han**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078731835420713/Untitled382_20230522131738.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOHA_1`"   
+            "code": "`SCOHA_5`"   
          }       
     ],
-    "SCOFL_1": [
+    "SCOFL_5": [
         {
             "name": "**5★ Stray Kids Felix**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078732342939708/Untitled382_20230522132152.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOFL_1`"   
+            "code": "`SCOFL_5`"   
          }      
     ],
-    "SCOSM_1": [
+    "SCOSM_5": [
         {
             "name": "**5★ Stray Kids Seungmin**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110078732833665045/Untitled382_20230522132220.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOSM_1`"   
+            "code": "`SCOSM_5`"   
          }      
     ],
-    "SCOIN_1": [
+    "SCOIN_1l5": [
         {
             "name": "**5★ Stray Kids I.N**",
             "image": "https://media.discordapp.net/attachments/1110077492431179806/1110243751118520471/Untitled382_20230523003019.png",
             "theme": "card1",
             "inv": "Stray Kids",
             "grade": "5star",
-            "code": "`SCOIN_1`"   
+            "code": "`SCOIN_5`"   
          }        
     ],
-    "LFBCW_1": [
+    "LFBCW_5": [
         {
             "name": "**Limited 5★ Le Sserafim Kim Chaewon**",
             "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228805324374106/Untitled383_20230522232708.png",
             "theme": "card1",
             "inv": "LE Sserafim",
             "grade": "5star",
-            "code": "`LFBCW_1`"   
+            "code": "`LFBCW_5`"   
          }            
     ],
-    "LFBSK_1": [
+    "LFBSK_5": [
         {
             "name": "**Limited 5★ Le Sserafim Sakura**",
             "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228805697671248/Untitled383_20230522232802.png",
             "theme": "card1",
             "inv": "LE Sserafim",
             "grade": "5star",
-            "code": "`LFBSK_1`"   
+            "code": "`LFBSK_5`"   
          }     
     ],
-    "LFBYJ_1": [
+    "LFBYJ_5": [
         {
             "name": "**Limited 5★ Le Sserafim Huh Yunjin**",
             "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806070972426/Untitled383_20230522232617.png",
             "theme": "card1",
             "inv": "LE Sserafim",
             "grade": "5star",
-            "code": "`LFBYJ_1`"   
+            "code": "`LFBYJ_5`"   
          }   
     ],
-    "LFBKZ_1": [
+    "LFBKZ_5": [
         {
             "name": "**Limited 5★ Le Sserafim Kazuha**",
             "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806473613352/Untitled383_20230522232918.png",
             "theme": "card1",
             "inv": "LE Sserafim",
             "grade": "5star",
-            "code": "`LFBKZ_1`"   
+            "code": "`LFBKZ_5`"   
          }         
     ],
-    "LFBEC_1": [
+    "LFBEC_5": [
         {
             "name": "**Limited 5★ Le Sserafim Hong Eunchae**",
             "image": "https://media.discordapp.net/attachments/1109678065300295741/1110228806792384632/Untitled383_20230522232842.png",
             "theme": "card1",
             "inv": "LE Sserafim",
             "grade": "5star",
-            "code": "`LFBEC_1`"   
+            "code": "`LFBEC_5`"   
          }        
     ],
-    "CSMBX_1": [
+    "CSMBX_5": [
         {
             "name": "**Limited 5★ CIX BX**",
             "image": "https://media.discordapp.net/attachments/1106937102073077903/1110560217453821982/Untitled384_20230523212633.png",
             "theme": "card1",
             "inv": "CIX",
             "grade": "5star",
-            "code": "`CSMBX_1`"   
+            "code": "`CSMBX_5`"   
          }      
     ],
-    "CSMSH_1": [
+    "CSMSH_5": [
         {
             "name": "**Limited 5★ CIX Seunghun**",
             "image": "https://media.discordapp.net/attachments/1106937102073077903/1110560217739038850/Untitled384_20230523212838.png",
             "theme": "card1",
             "inv": "CIX",
             "grade": "5star",
-            "code": "`CSMSH_1`"   
+            "code": "`CSMSH_5`"   
          }   
     ],
-    "CSMJY_1": [
+    "CSMJY_5": [
         {
             "name": "**Limited 5★ CIX Bae Jinyoung**",
             "image": "https://media.discordapp.net/attachments/1106937102073077903/1110560218313654423/Untitled384_20230523212650.png",
             "theme": "card1",
             "inv": "CIX",
             "grade": "5star",
-            "code": "`CSMJY_1`"   
+            "code": "`CSMJY_5`"   
          }      
     ],
-    "CSMYH_1": [
+    "CSMYH_5": [
         {
             "name": "**Limited 5★ CIX Yonghee**",
             "image": "https://media.discordapp.net/attachments/1106937102073077903/1110560218049421372/Untitled384_20230523212658.png",
             "theme": "card1",
             "inv": "CIX",
             "grade": "5star",
-            "code": "`CSMYH_1`"   
+            "code": "`CSMYH_5`"   
          } 
     ],
-    "CSMHS_1": [
+    "CSMHS_5": [
         {
             "name": "**Limited 5★ CIX Hyunsul**",
             "image": "https://media.discordapp.net/attachments/1106937102073077903/1110560218657591386/Untitled384_20230523212704.png",
             "theme": "card1",
             "inv": "CIX",
             "grade": "5star",
-            "code": "`CSMHS_1`"   
+            "code": "`CSMHS_5`"   
          }      
     ],
-    "NPFDY_1": [
+    "NPFDY_5": [
         {
             "name": "**5★ NCT DoJaeJung Doyoung**",
             "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852003657154560/Untitled385_20230524164829.png",
             "theme": "card1",
             "inv": "NCT DoJaeJung",
             "grade": "5star",
-            "code": "`NPFDY_1`"
+            "code": "`NPFDY_5`"
         }   
     ],
-    "NPFJH_1": [
+    "NPFJH_5": [
         {
             "name": "**5★ NCT DoJaeJung Jaehyun**",
             "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852004072411167/Untitled385_20230524164836.png",
             "theme": "card1",
             "inv": "NCT DoJaeJung",
             "grade": "5star",
-            "code": "`NPFJH_1`"
+            "code": "`NPFJH_5`"
         }     
     ],
-    "NPFJW_1": [
+    "NPFJW_5": [
         {
             "name": "**5★ NCT DoJaeJung Jungwoo**",
             "image": "https://media.discordapp.net/attachments/1110849503013109780/1110852004496031924/Untitled385_20230524164843.png",
             "theme": "card1",
             "inv": "NCT DoJaeJung",
             "grade": "5star",
-            "code": "`NPFJW_1`"
+            "code": "`NPFJW_5`"
         }    
     ],
-    "FCPKN_1": [
+    "FCPKN_5": [
         {
             "name": "**5★ Fifty Fifty Keena**",
             "image": "https://media.discordapp.net/attachments/1110849530020241439/1110962717814177892/Untitled387_20230525000809.png",
             "theme": "card1",
             "inv": "Fifty Fifty",
             "grade": "5star",
-            "code": "`FCPKN_1`"
+            "code": "`FCPKN_5`"
         }        
     ],
-    "FCPSN_1": [
+    "FCPSN_5": [
         {
             "name": "**5★ Fifty Fifty Saena**",
             "image": "https://media.discordapp.net/attachments/1110849530020241439/1110962718179086387/Untitled387_20230525000801.png",
             "theme": "card1",
             "inv": "Fifty Fifty",
             "grade": "5star",
-            "code": "`FCPSN_1`"
+            "code": "`FCPSN_5`"
         }    
     ],
-    "FCPSO_1": [
+    "FCPSO_5": [
         {
             "name": "**5★ Fifty Fifty Sio**",
             "image": "https://media.discordapp.net/attachments/1110849530020241439/1110962718510424145/Untitled387_20230525000728.png",
             "theme": "card1",
             "inv": "Fifty Fifty",
             "grade": "5star",
-            "code": "`FCPSO_1`"
+            "code": "`FCPSO_5`"
         }        
     ],
-    "FCPAR_1": [
+    "FCPAR_5": [
         {
             "name": "**5★ Fifty Fifty Aran**",
             "image": "https://media.discordapp.net/attachments/1110849530020241439/1110962718858563604/Untitled387_20230525000708.png",
             "theme": "card1",
             "inv": "Fifty Fifty",
             "grade": "5star",
-            "code": "`FCPAR_1`"
+            "code": "`FCPAR_5`"
         }            
     ],
     "PDIKH_1": [
