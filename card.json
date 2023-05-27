@@ -2372,7 +2372,7 @@
     "ESSSH_1": [
         {
             "name": "**Event 5★ Seonghwa**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111960759589679175/Untitled395_20230527180325.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2382,7 +2382,7 @@
     "ESSSN_1": [
         {
             "name": "**Event 5★ San**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111960759933608066/Untitled395_20230527181113.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2392,7 +2392,7 @@
     "ESSYH_1": [
         {
             "name": "**Event 5★ Yonghee**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111965806285291530/Untitled395_20230527183438.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2402,7 +2402,7 @@
     "ESSHS_1": [
         {
             "name": "**Event 5★ Hyunsuk**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111965805513556108/Untitled395_20230527183237.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2412,7 +2412,7 @@
     "ESSJN_1": [
         {
             "name": "**Event 5★ Jeno**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111968508541161502/Untitled395_20230527184523.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2422,7 +2422,7 @@
     "ESSJS_1": [
         {
             "name": "**Event 5★ Jisung**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111968508209799298/Untitled395_20230527184312.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2432,7 +2432,7 @@
     "ESSHJ_1": [
         {
             "name": "**Event 5★ Hyunjae**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112019381204029551/Untitled395_20230527220334.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2442,7 +2442,7 @@
     "ESSSW_1": [
         {
             "name": "**Event 5★ Sunwoo**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112019381619269692/Untitled395_20230527220700.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2452,7 +2452,7 @@
     "ESSSB_1": [
         {
             "name": "**Event 5★ Soobin**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111977715596271656/Untitled395_20230527191919.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2462,27 +2462,27 @@
     "ESSHK_1": [
         {
             "name": "**Event 5★ Huening Kai**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1111977716032471070/Untitled395_20230527192159.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
             "code": "`ESSHK_1`"
         }      
     ],
-    "ESSNN_1": [
+    "ESSKR_1": [
         {
-            "name": "**Event 5★ Ningning**",
-            "image": "",
+            "name": "**Event 5★ Karina**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112024258009382912/Untitled395_20230527222644.png,
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
-            "code": "`ESSNN_1`"
+            "code": "`ESSKR_1`"
         }    
     ],
     "ESSWT_1": [
         {
             "name": "**Event 5★ Winter**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112024258445594674/Untitled395_20230527222320.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2492,7 +2492,7 @@
     "ESSHY_1": [
         {
             "name": "**Event 5★ Hayoung**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112028478737494048/Untitled395_20230527224200.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2502,7 +2502,7 @@
     "ESSJH_1": [
         {
             "name": "**Event 5★ Jiheon**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112028479228223488/Untitled395_20230527224346.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2512,7 +2512,7 @@
     "ESSJW_1": [
         {
             "name": "**Event 5★ Jang Wonyoung**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112036004682022932/Untitled395_20230527231313.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2522,7 +2522,7 @@
     "ESSLZ_1": [
         {
             "name": "**Event 5★ Liz**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112036005097254922/Untitled395_20230527231059.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2532,7 +2532,7 @@
     "ESSCW_1": [
         {
             "name": "**Event 5★ Kim Chaewon**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112029849394102532/Untitled395_20230527224702.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2542,7 +2542,7 @@
     "ESSEC_1": [
         {
             "name": "**Event 5★ Hong Eunchae**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112029849939366009/Untitled395_20230527224921.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2552,7 +2552,7 @@
     "ESSHN_1": [
         {
             "name": "**Event 5★ Hanni**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112034565029118053/Untitled395_20230527230615.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
@@ -2562,7 +2562,7 @@
     "ESSHR_1": [
         {
             "name": "**Event 5★ Haerin**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112034565356257290/Untitled395_20230527230751.png",
             "theme": "card1",
             "inv": "Event",
             "grade": "5star",
