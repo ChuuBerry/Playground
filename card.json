@@ -2567,7 +2567,67 @@
             "inv": "Event",
             "grade": "5star",
             "code": "`ESSHR_1`"
-        }                    
+        }           
+    ],
+    "ESSXT_1": [
+        {
+            "name": "**Event 5★ Xiaoting**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112196061491105862/Untitled395_20230528094406.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSXT_1`"
+        }       
+    ],
+    "ESSCH_1": [
+        {
+            "name": "**Event 5★ Chuu**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112196062124445856/Untitled395_20230528094800.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSCH_1`"
+        }    
+    ],
+    "ESSIT_1": [
+        {
+            "name": "**Event 5★ Intak**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112196061826662431/Untitled395_20230528094537.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSIT_1`"
+        }      
+    ],
+    "ESSHU_1": [
+        {
+            "name": "**Event 5★ Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112196062518722640/Untitled395_20230528094929.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSHU_1`"
+        }          
+    ],
+    "ESSZH_1": [
+        {
+            "name": "**Event 5★ Zhang Hao**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112198431872651274/Untitled395_20230528095706.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSZH_1`"
+        }        
+    ],
+    "ESSHB_1": [
+        {
+            "name": "**Event 5★ Sung Hanbin**",
+            "image": "https://media.discordapp.net/attachments/1111930071394037850/1112198432254345317/Untitled395_20230528095859.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`ESSHB_1`"
+        }           
     ]
 }
     
