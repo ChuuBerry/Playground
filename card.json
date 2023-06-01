@@ -3008,6 +3008,246 @@
             "grade": "2star",
             "code": "`EFRHS_1`"
         }         
+    ],   
+     "EFRJA_1": [
+        {
+            "name": "**2★ Enhypen Jay**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRJA_1`"
+        }       
+    ],   
+     "EFRJK_1": [
+        {
+            "name": "**2★ Enhypen Jake**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRJK_1`"
+        }     
+     ],   
+     "EFRSH_1": [
+        {
+            "name": "**2★ Enhypen Sunghoon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRSH_1`"
+        }   
+    ],   
+     "EFRJW_1": [
+        {
+            "name": "**2★ Enhypen Jungwon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRJW_1`"
+        }     
+    ],   
+     "EFRSN_1": [
+        {
+            "name": "**2★ Enhypen Sunoo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRSN_1`"
+        }  
+    ],   
+     "EFRNK_1": [
+        {
+            "name": "**2★ Enhypen Ni-ki**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRNK_1`"
+        }     
+    ],   
+     "BBTJN_1": [
+        {
+            "name": "**2★ BTS Jin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTJN_1`"
+        }     
+    ],   
+     "BBTSG_1": [
+        {
+            "name": "**2★ BTS Suga**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTSG_1`"
+        }       
+    ],   
+     "BBTJH_1": [
+        {
+            "name": "**2★ BTS J-Hope**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTJH_1`"
+        }          
+    ],   
+     "BBTRM_1": [
+        {
+            "name": "**2★ BTS RM**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTRM_1`"
+        }    
+    ],   
+     "BBTJM_1": [
+        {
+            "name": "**2★ BTS Jimin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTJM_1`"
+        }  
+    ],   
+     "BBTTH_1": [
+        {
+            "name": "**2★ BTS Taehyung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTTH_1`"
+        }           
+    ],   
+     "BBTJK_1": [
+        {
+            "name": "**2★ BTS Jungkook**",
+            "image": "",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "2star",
+            "code": "`BBTJK_1`"
+        }   
+    ],   
+     "SKDPR_1": [
+        {
+            "name": "**5★ Soloist Kang Daniel**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "5star",
+            "code": "`SKDPR_1`"
+        }
+    ],   
+     "SYNSL_1": [
+        {
+            "name": "**5★ Soloist Yena**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "5star",
+            "code": "`SYNSL_1`"
+        }     
+    ],   
+     "ABMKR_1": [
+        {
+            "name": "**Limited 5★ Aespa Karina**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "5star",
+            "code": "`ABMKR_1`"
+        }     
+    ],   
+     "ABMGS_1": [
+        {
+            "name": "**Limited 5★ Aespa Giselle**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "5star",
+            "code": "`ABMGS_1`"
+        }     
+    ],   
+     "ABMWT_1": [
+        {
+            "name": "**Limited 5★ Aespa Winter**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "5star",
+            "code": "`ABMWT_1`"
+        }          
+     ],   
+     "ABMNN_1": [
+        {
+            "name": "**Limited 5★ Aespa Ningning**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "5star",
+            "code": "`ABMNN_1`"
+        }         
+    ],   
+    "TBHSB_1": [
+        {
+            "name": "**Limited 5★ Tomorrow X Together Soobin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "5star",
+            "code": "`TBHSB_1`"
+        }              
+    ],   
+    "TBHYJ_1": [
+        {
+            "name": "**Limited 5★ Tomorrow X Together Yeonjun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "5star",
+            "code": "`TBHYJ_1`"
+        }      
+    ],   
+    "TBHBG_1": [
+        {
+            "name": "**Limited 5★ Tomorrow X Together Beomgyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "5star",
+            "code": "`TBHBG_1`"
+        }     
+    ],   
+    "TBHTH_1": [
+        {
+            "name": "**Limited 5★ Tomorrow X Together Taehyun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "5star",
+            "code": "`TBHTH_1`"
+        }    
+    ],   
+    "TBHHK_1": [
+        {
+            "name": "**Limited 5★ Tomorrow X Together Huening Kai**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "5star",
+            "code": "`TBHHK_1`"
+        }                  
     ]
 }
     
