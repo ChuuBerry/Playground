@@ -2634,9 +2634,199 @@
             "name": "**1★ Everglow E:U**",
             "image": "",
             "theme": "card1",
-            "inv": "Billlie",
+            "inv": "Everglow",
             "grade": "1star",
             "code": "`EPREU_1`"
+        }    
+    ],
+    "EPRSH_1": [
+        {
+            "name": "**1★ Everglow Sihyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Everglow",
+            "grade": "1star",
+            "code": "`EPRSH_1`"
+        }       
+    ],
+    "EPRMI_1": [
+        {
+            "name": "**1★ Everglow Mia**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Everglow",
+            "grade": "1star",
+            "code": "`EPRMI_1`"
+        }       
+    ],
+    "EPROD_1": [
+        {
+            "name": "**1★ Everglow Onda**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Everglow",
+            "grade": "1star",
+            "code": "`EPROD_1`"
+        }    
+    ],
+    "EPRAS_1": [
+        {
+            "name": "**1★ Everglow Aisha**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Everglow",
+            "grade": "1star",
+            "code": "`EPRAS_1`"
+        }      
+    ],
+    "EPRYR_1": [
+        {
+            "name": "**1★ Everglow Yiren**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Everglow",
+            "grade": "1star",
+            "code": "`EPRYR_1`"
+        }       
+    ],
+    "ATAWO_1": [
+        {
+            "name": "**1★ AB6IX Woong**",
+            "image": "",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "`ATAWO_1`"
+        }
+    ],  
+    "ATADO_1": [
+        {
+            "name": "**1★ AB6IX Donghyun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "`ATADO_1`"
+        }   
+    ],    
+    "ATAWJ_1": [
+        {
+            "name": "**1★ AB6IX Woojin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "`ATAWJ_1`"
+        }  
+    ],
+    "ATADH_1": [
+        {
+            "name": "**1★ AB6IX Daehwi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "`ATADH_1`"
+        }   
+    ],
+    "ILCYJ_1": [
+        {
+            "name": "**2★ ITZY Yeji**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ILCYJ_1`"
+        }       
+    ],
+    "ILCLI_1": [
+        {
+            "name": "**2★ ITZY Lia**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ILCLI_1`"
+        }    
+    ],
+    "ILCRJ_1": [
+        {
+            "name": "**2★ ITZY Ryujin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ILCRJ_1`"
+        }        
+    ],
+    "ILCCY_1": [
+        {
+            "name": "**2★ ITZY Chaeryeong**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ILCCY_1`"
+        }       
+    ],
+    "ILCYN_1": [
+        {
+            "name": "**2★ ITZY Yuna**",
+            "image": "",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "`ILCYN_1`"
+        }       
+    ],
+    "RQDIR_1": [
+        {
+            "name": "**2★ Red Velvet Irene**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RQDIR_1`"
+        }
+    ],
+    "RQDSG_1": [
+        {
+            "name": "**2★ Red Velvet Seulgi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RQDSG_1`"
+        }    
+    ],
+    "RQDWD_1": [
+        {
+            "name": "**2★ Red Velvet Wendy**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RQDWD_1`"
+        }    
+    ],
+    "RQDJY_1": [
+        {
+            "name": "**2★ Red Velvet Joy**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RQDJY_1`"
+        }    
+    ],
+    "RQDYR_1": [
+        {
+            "name": "**2★ Red Velvet Yeri**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RQDYR_1`"
         }    
     ]
 }
