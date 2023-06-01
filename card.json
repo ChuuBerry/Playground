@@ -2735,7 +2735,7 @@
             "image": "",
             "theme": "card1",
             "inv": "ITZY",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`ILCYJ_1`"
         }       
     ],
@@ -2745,7 +2745,7 @@
             "image": "",
             "theme": "card1",
             "inv": "ITZY",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`ILCLI_1`"
         }    
     ],
@@ -2755,7 +2755,7 @@
             "image": "",
             "theme": "card1",
             "inv": "ITZY",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`ILCRJ_1`"
         }        
     ],
@@ -2765,7 +2765,7 @@
             "image": "",
             "theme": "card1",
             "inv": "ITZY",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`ILCCY_1`"
         }       
     ],
@@ -2775,7 +2775,7 @@
             "image": "",
             "theme": "card1",
             "inv": "ITZY",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`ILCYN_1`"
         }       
     ],
@@ -2785,7 +2785,7 @@
             "image": "",
             "theme": "card1",
             "inv": "Red Velvet",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`RQDIR_1`"
         }
     ],
@@ -2795,7 +2795,7 @@
             "image": "",
             "theme": "card1",
             "inv": "Red Velvet",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`RQDSG_1`"
         }    
     ],
@@ -2805,7 +2805,7 @@
             "image": "",
             "theme": "card1",
             "inv": "Red Velvet",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`RQDWD_1`"
         }    
     ],
@@ -2815,7 +2815,7 @@
             "image": "",
             "theme": "card1",
             "inv": "Red Velvet",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`RQDJY_1`"
         }    
     ],
@@ -2825,9 +2825,189 @@
             "image": "",
             "theme": "card1",
             "inv": "Red Velvet",
-            "grade": "1star",
+            "grade": "2star",
             "code": "`RQDYR_1`"
+        }   
+    ],
+    "TAFNY_1": [
+        {
+            "name": "**2★ Twice Nayeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFNY_1`"
         }    
+    ],
+    "TAFJY_1": [
+        {
+            "name": "**2★ Twice Jeongyeon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFJY_1`"
+        }   
+    ],
+    "TAFMM_1": [
+        {
+            "name": "**2★ Twice Momo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFMM_1`"
+        }       
+    ],
+    "TAFSN_1": [
+        {
+            "name": "**2★ Twice Sana**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFSN_1`"
+        }   
+    ],
+    "TAFJH_1": [
+        {
+            "name": "**2★ Twice Jihyo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFJH_1`"
+        }      
+    ],
+    "TAFMN_1": [
+        {
+            "name": "**2★ Twice Mina**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFMN_1`"
+        }        
+    ],
+    "TAFDH_1": [
+        {
+            "name": "**2★ Twice Dahyun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFDH_1`"
+        }  
+    ],
+    "TAFCY_1": [
+        {
+            "name": "**2★ Twice Chaeyoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFCY_1`"
+        }    
+    ],
+    "TAFTY_1": [
+        {
+            "name": "**2★ Twice Tzuyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Twice",
+            "grade": "2star",
+            "code": "`TAFTY_1`"
+        }   
+     ],   
+     "AHHHJ_1": [
+        {
+            "name": "**2★ Ateez Hongjoong**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHHJ_1`"
+        }    
+    ],   
+     "AHHSH_1": [
+        {
+            "name": "**2★ Ateez Seonghwa**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHSH_1`"
+        }   
+    ],   
+     "AHHYH_1": [
+        {
+            "name": "**2★ Ateez Yunho**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHYH_1`"
+        }      
+     ],   
+     "AHHYS_1": [
+        {
+            "name": "**2★ Ateez Yeosang**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHYS_1`"
+        }       
+    ],   
+     "AHHSN_1": [
+        {
+            "name": "**2★ Ateez San**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHSN_1`"
+        }    
+    ],   
+     "AHHMG_1": [
+        {
+            "name": "**2★ Ateez Mingi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHMG_1`"
+        }    
+    ],   
+     "AHHWY_1": [
+        {
+            "name": "**2★ Ateez Wooyoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHWY_1`"
+        }       
+     ],   
+     "AHHJH_1": [
+        {
+            "name": "**2★ Ateez Jongho**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Ateez",
+            "grade": "2star",
+            "code": "`AHHJH_1`"
+        }    
+    ],   
+     "EFRHS_1": [
+        {
+            "name": "**2★ Enhypen Heeseung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "2star",
+            "code": "`EFRHS_1`"
+        }         
     ]
 }
     
