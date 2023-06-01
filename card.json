@@ -2627,7 +2627,17 @@
             "inv": "Event",
             "grade": "5star",
             "code": "`ESSHB_1`"
-        }           
+        }     
+    ],
+    "EPREU_1": [
+        {
+            "name": "**1★ Everglow E:U**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`EPREU_1`"
+        }    
     ]
 }
     
