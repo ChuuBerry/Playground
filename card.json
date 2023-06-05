@@ -3268,6 +3268,26 @@
             "grade": "5star",
             "code": "`KBCYS_1`"
         }    
+    ],   
+    "RPUIR_1": [
+        {
+            "name": "**Playlist 5★ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819126112439/Untitled406_20230605003520.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "5star",
+            "code": "`RPUIR_1`"
+        }        
+    ],   
+    "CAOJW_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765174325249/Untitled407_20230606005741.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOJW_1`"
+        }            
     ]
 }
     
