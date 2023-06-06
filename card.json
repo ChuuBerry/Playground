@@ -3259,6 +3259,66 @@
             "code": "`EFVHS_1`"
         }
     ],   
+    "EFVJA_1": [
+        {
+            "name": "**Limited 5★ Enhypen Jay**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409650125393941/Untitled403_20230606063431.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVJA_1`"
+        }    
+    ],   
+    "EFVJK_1": [
+        {
+            "name": "**Limited 5★ Enhypen Jake**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409650792271872/Untitled403_20230606063441.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVJK_1`"
+        }    
+    ],   
+    "EFVSH_1": [
+        {
+            "name": "**Limited 5★ Enhypen Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409651140407416/Untitled403_20230606063450.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVSH_1`"
+        }  
+    ],   
+    "EFVJW_1": [
+        {
+            "name": "**Limited 5★ Enhypen Jungwon**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409651488526416/Untitled403_20230606063456.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVJW_1`"
+        }   
+    ],   
+    "EFVSN_1": [
+        {
+            "name": "**Limited 5★ Enhypen Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409651895382167/Untitled403_20230606063503.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVSN_1`"
+        }    
+    ],   
+    "EFVNK_1": [
+        {
+            "name": "**Limited 5★ Enhypen Ni-ki**",
+            "image": "https://media.discordapp.net/attachments/1109678191670476810/1115409652327403572/Untitled403_20230606063509.png",
+            "theme": "card1",
+            "inv": "Enhypen",
+            "grade": "5star",
+            "code": "`EFVNK_1`"
+        }   
+    ],   
     "KBCYS_1": [
         {
             "name": "**Limited 5★ Kep1er Yeseo**",
