@@ -3329,6 +3329,86 @@
             "code": "`KBCYS_1`"
         }    
     ],   
+    "KBCYE_1": [
+        {
+            "name": "**Limited 5★ Kep1er Youngeun**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444955863847052/Untitled405_20230606083450.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCYE_1`"
+        }   
+    ],   
+    "KBCBH_1": [
+        {
+            "name": "**Limited 5★ Kep1er Bahiyyih**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444955469598771/Untitled405_20230606083529.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCBH_1`"
+        }     
+    ],   
+    "KBCHK_1": [
+        {
+            "name": "**Limited 5★ Kep1er Hikaru**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444955469598771/Untitled405_20230606083529.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCHK_1`"
+        }  
+    ],   
+    "KBCDY_1": [
+        {
+            "name": "**Limited 5★ Kep1er Dayeon**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444954391662652/Untitled405_20230606083627.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCDY_1`"
+        }        
+    ],   
+    "KBCCH_1": [
+        {
+            "name": "**Limited 5★ Kep1er Chaehyun**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444953947050054/Untitled405_20230606083706.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCCH_1`"
+        }  
+    ],   
+    "KBCMS_1": [
+        {
+            "name": "**Limited 5★ Kep1er Mashiro**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444953389203548/Untitled405_20230606083731.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCMS_1`"
+        }        
+    ],   
+    "KBCXT_1": [
+        {
+            "name": "**Limited 5★ Kep1er Xiaoting**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444952726523914/Untitled405_20230606083800.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCXT_1`"
+        }    
+    ],   
+    "KBCYJ_1": [
+        {
+            "name": "**Limited 5★ Kep1er Yujin**",
+            "image": "https://media.discordapp.net/attachments/1115439670000631898/1115444952311271554/Untitled405_20230606083831.png",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "5star",
+            "code": "`KBCYJ_1`"
+        }        
+    ],   
     "RPUIR_1": [
         {
             "name": "**Playlist 5★ Red Velvet Irene**",
@@ -3339,6 +3419,76 @@
             "code": "`RPUIR_1`"
         }        
     ],   
+    "RPUSG_1": [
+        {
+            "name": "**Playlist 5★ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819482611752/Untitled406_20230605003512.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "5star",
+            "code": "`RPUSG_1`"
+        }     
+    ],   
+    "RPUWD_1": [
+        {
+            "name": "**Playlist 5★ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819939807342/Untitled406_20230605003504.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "5star",
+            "code": "`RPUWD_1`"
+        }        
+    ],   
+    "RPUJY_1": [
+        {
+            "name": "**Playlist 5★ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955820384387092/Untitled406_20230605003457.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "5star",
+            "code": "`RPUJY_1`"
+        }     
+    ],   
+    "RPUYR_1": [
+        {
+            "name": "**Playlist 5★ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955820904497152/Untitled406_20230605003450.png",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "5star",
+            "code": "`RPUYR_1`"
+        }   
+    ],   
+    "CAOHY_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Haeyoon**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764062834860/Untitled407_20230606005716.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOHY_1`"
+        }       
+   ],   
+    "CAOYJ_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Yuju**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764415152222/Untitled407_20230606005725.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOYJ_1`"
+        }      
+    ],   
+    "CAOBR_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Bora**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764801024000/Untitled407_20230606005732.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOBR_1`"
+        }                
+    ],   
     "CAOJW_1": [
         {
             "name": "**Playlist 5★ Cherry Bullet Jiwon**",
@@ -3347,7 +3497,37 @@
             "inv": "Cherry Bullet",
             "grade": "5star",
             "code": "`CAOJW_1`"
-        }            
+        }        
+    ],   
+    "CAORM_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Remi**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765174325249/Untitled407_20230606005741.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAORM_1`"
+        }                
+    ],   
+    "CAOCH_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet Chaerin**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765967040593/Untitled407_20230606005756.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOCH_1`"
+        }       
+    ],   
+    "CAOMA_1": [
+        {
+            "name": "**Playlist 5★ Cherry Bullet May**",
+            "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323766281621614/Untitled407_20230606005803.png",
+            "theme": "card1",
+            "inv": "Cherry Bullet",
+            "grade": "5star",
+            "code": "`CAOMA_1`"
+        }                
     ]
 }
     
