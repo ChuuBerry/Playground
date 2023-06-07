@@ -3528,6 +3528,76 @@
             "grade": "5star",
             "code": "`CAOMA_1`"
         }                
+    ],   
+    "NHFMA_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Mark**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217328554044/Untitled408_20230607125953.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFMA_1`"
+        }
+    ],   
+    "NHFRJ_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Renjun**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217617948743/Untitled408_20230607125925.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFRJ_1`"
+        }   
+    ],   
+    "NHFJN_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Jeno**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217957691392/Untitled408_20230607125836.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFJN_1`"
+        }    
+    ],   
+    "NHFHC_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Haechan**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218268078190/Untitled408_20230607125900.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFHC_1`"
+        }    
+    ],   
+    "NHFJM_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218570055690/Untitled408_20230607125705.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFJM_1`"
+        }    
+    ],   
+    "NHFCL_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Chenle**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218867855430/Untitled408_20230607125810.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFCL_1`"
+        }    
+    ],   
+    "NHFJS_1": [
+        {
+            "name": "**Playlist 5★ NCT Dream Jisung**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868219253739540/Untitled408_20230607125745.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "5star",
+            "code": "`NHFJS_1`"
+        }   
     ]
 }
     
