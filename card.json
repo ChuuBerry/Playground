@@ -9,6 +9,46 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "SEBGL_1": [
+        {
+            "name": "**1★ Soloist Kwon Eunbi**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SEBGL_1`"
+        }
+    ],
+    "SHSMR_1": [
+        {
+            "name": "**1★ Soloist Hwasa**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SHSMR_1`"
+        }    
+    ],
+    "STMAV_1": [
+        {
+            "name": "**1★ Soloist Taemin**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588893123391540/Untitled414_20230609124233.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`STMAV_1`"
+        }    
+    ],
+    "STYVB_1": [
+        {
+            "name": "**1★ Soloist Taeyang**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588893391818783/Untitled414_20230609124426.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`STYVB_1`"
+        }    
+    ],
     "THLHS_1": [
         {
             "name": "**1★ TREASURE Choi Hyunsuk**",
