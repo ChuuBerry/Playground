@@ -11,70 +11,180 @@
     ],
     "LFTHE_1": [
         {
-            "name": "**1★ Gfriend Sowon**",
-            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040415809659/Untitled409_20230608210346.png",
+            "name": "**1★ Loona Heejin**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358643902849096/Untitled410_20230608211633.png",
             "theme": "card1",
             "inv": "Loona",
             "grade": "1star",
             "code": "`LFTHE_1`"
         }        
     ],
+    "LFTHJ_1": [
+        {
+            "name": "**1★ Loona Hyujin**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358644309708942/Untitled410_20230608211658.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTHJ_1`"
+        }      
+    ],
+    "LFTHS_1": [
+        {
+            "name": "**1★ Loona Haseul**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358644716544100/Untitled410_20230608211729.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTHS_1`"
+        }            
+    ],
+    "LFTVV_1": [
+        {
+            "name": "**1★ Loona Vivi**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358645198901258/Untitled410_20230608211756.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTVV_1`"
+        }      
+    ],
+    "LFTYJ_1": [
+        {
+            "name": "**1★ Loona Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358645605736479/Untitled410_20230608211832.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTYJ_1`"
+        }        
+    ],
+    "LFTKL_1": [
+        {
+            "name": "**1★ Loona Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358645949681744/Untitled410_20230608212016.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTKL_1`"
+        }        
+    ],
+    "LFTJS_1": [
+        {
+            "name": "**1★ Loona Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358670125641749/Untitled410_20230608212153.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTJS_1`"
+        }     
+    ],
+    "LFTCE_1": [
+        {
+            "name": "**1★ Loona Choerry**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358670536671333/Untitled410_20230608212325.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTCE_1`"
+        }      
+    ],
+    "LFTYV_1": [
+        {
+            "name": "**1★ Loona Yves**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358671035797587/Untitled410_20230608212513.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTYV_1`"
+        }   
+    ],
+    "LFTCH_1": [
+        {
+            "name": "**1★ Loona Chuu**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358671472001065/Untitled410_20230608212713.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTCH_1`"
+        }    
+    ],
+    "LFTGW_1": [
+        {
+            "name": "**1★ Loona Gowon**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358671841099786/Untitled410_20230608212835.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTGW_1`"
+        }         
+    ],
+    "LFTOH_1": [
+        {
+            "name": "**1★ Loona Olivia Hye**",
+            "image": "https://media.discordapp.net/attachments/1116358539603083304/1116358672273117225/Untitled410_20230608212956.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTOH_1`"
+        }            
+    ],
     "GMGSW_1": [
         {
-            "name": "**1★ Gfriend Sowon**",
+            "name": "**1★ GFRIEND Sowon**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040415809659/Untitled409_20230608210346.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGSW_1`"
         }    
     ],
     "GMGYR_1": [
         {
-            "name": "**1★ Gfriend Yerin**",
+            "name": "**1★ GFRIEND Yerin**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040986218516/Untitled409_20230608210340.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGYR_1`"
         }     
     ],
     "GMGEH_1": [
         {
-            "name": "**1★ Gfriend Eunha**",
+            "name": "**1★ GFRIEND Eunha**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041330163824/Untitled409_20230608210335.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGEH_1`"
         }      
     ],
     "GMGYJ_1": [
         {
-            "name": "**1★ Gfriend Yuju**",
+            "name": "**1★ GFRIEND Yuju**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041648934952/Untitled409_20230608210330.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGYJ_1`"
         }       
     ],
     "GMGSB_1": [
         {
-            "name": "**1★ Gfriend SinB**",
+            "name": "**1★ GFRIEND SinB**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041984462848/Untitled409_20230608210322.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGSB_1`"
         }       
     ],
     "GMGUJ_1": [
         {
-            "name": "**1★ Gfriend Umji**",
+            "name": "**1★ GFRIEND Umji**",
             "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352042311630968/Untitled409_20230608210141.png",
             "theme": "card1",
-            "inv": "Gfriend",
+            "inv": "GFRIEND",
             "grade": "1star",
             "code": "`GMGUJ_1`"
         }       
