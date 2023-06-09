@@ -129,9 +129,69 @@
             "code": "`WSPJS_1`"
         }    
     ],
+    "MLKSN_1": [
+        {
+            "name": "**2★ Monsta X Shownu**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383304220934214/Untitled347_20230608230505.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKSN_1`"
+        }    
+    ],
+    "MLKMH_1": [
+        {
+            "name": "**2★ Monsta X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383304661340220/Untitled347_20230608230628.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKMH_1`"
+        }      
+    ],
+    "MLKKH_1": [
+        {
+            "name": "**2★ Monsta X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383305017852057/Untitled347_20230608230704.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKKH_1`"
+        }    
+    ],
+    "MLKHW_1": [
+        {
+            "name": "**2★ Monsta X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383305521184879/Untitled347_20230608230723.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKHW_1`"
+        }   
+    ],
+    "MLKJH_1": [
+        {
+            "name": "**2★ Monsta X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383305907044533/Untitled347_20230608230741.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKJH_1`"
+        }   
+    ],
+    "MLKIM_1": [
+        {
+            "name": "**2★ Monsta X I.M**",
+            "image": "https://media.discordapp.net/attachments/1106938330140127272/1116383306246799390/Untitled347_20230608230801.png",
+            "theme": "card1",
+            "inv": "Monsta X",
+            "grade": "2star",
+            "code": "`MLKIM_1`"
+        }        
+    ],
     "GTBMY_1": [
         {
-            "name": "**1★ G(I)-DLE Miyeon**",
+            "name": "**2★ G(I)-DLE Miyeon**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321745893330964/Untitled344_20230608190056.png",
             "theme": "card1",
             "inv": "G(I)-DLE",
@@ -141,7 +201,7 @@
     ],
     "GTBMN_1": [
         {
-            "name": "**1★ G(I)-DLE Minnie**",
+            "name": "**2★ G(I)-DLE Minnie**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321746367291442/Untitled344_20230608190001.png",
             "theme": "card1",
             "inv": "G(I)-DLE",
@@ -151,7 +211,7 @@
     ],
     "GTBSY_1": [
         {
-            "name": "**1★ G(I)-DLE Soyeon**",
+            "name": "**2★ G(I)-DLE Soyeon**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321746711216158/Untitled344_20230608185840.png",
             "theme": "card1",
             "inv": "G(I)-DLE",
@@ -161,7 +221,7 @@
     ],
     "GTBYQ_1": [
         {
-            "name": "**1★ G(I)-DLE Yuqi**",
+            "name": "**2★ G(I)-DLE Yuqi**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321747344564285/Untitled344_20230608185813.png",
             "theme": "card1",
             "inv": "G(I)-DLE",
@@ -171,7 +231,7 @@
     ],
     "GTBSH_1": [
         {
-            "name": "**1★ G(I)-DLE Shuhua**",
+            "name": "**2★ G(I)-DLE Shuhua**",
             "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321747860459600/Untitled344_20230608185931.png",
             "theme": "card1",
             "inv": "G(I)-DLE",
