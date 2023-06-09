@@ -9,6 +9,66 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "IDIJA_1": [
+        {
+            "name": "**1★ iKON Jay**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDIJA_1`"
+        }        
+    ],
+    "IDIBB_1": [
+        {
+            "name": "**1★ iKON Bobby**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364920221601802/Untitled411_20230608215144.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDIBB_1`"
+        }    
+    ],
+    "IDIJU_1": [
+        {
+            "name": "**1★ iKON Ju-ne**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364920620072982/Untitled411_20230608215007.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDIJU_1`"
+        }   
+    ],
+    "IDISO_1": [
+        {
+            "name": "**1★ iKON Song**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364920951410698/Untitled411_20230608215031.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDISO_1`"
+        }    
+    ],
+    "IDIDK_1": [
+        {
+            "name": "**1★ iKON DK**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364921341497386/Untitled411_20230608215120.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDIDK_1`"
+        }     
+    ],
+    "IDICH_1": [
+        {
+            "name": "**1★ iKON Chan**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364921718968441/Untitled411_20230608215207.png",
+            "theme": "card1",
+            "inv": "iKON",
+            "grade": "1star",
+            "code": "`IDICH_1`"
+        }            
+    ],
     "WSPDA_1": [
         {
             "name": "**1★ WEi Daehyeon**",
