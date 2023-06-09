@@ -9,6 +9,66 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "SSBSM_1": [
+        {
+            "name": "**1★ STAYC Sumin**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908300932923453/Untitled371_Restored_20230607153932.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBSM_1`"
+        }            
+    ],
+    "SSBSI_1": [
+        {
+            "name": "**1★ STAYC Sieun**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908301322997831/Untitled371_Restored_20230607154020.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBSI_1`"
+        }     
+    ],
+    "SSBIS_1": [
+        {
+            "name": "**1★ STAYC Isa**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908301662724177/Untitled371_Restored_20230607153847.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBIS_1`"
+        }  
+    ],
+    "SSBYO_1": [
+        {
+            "name": "**1★ STAYC Yoon**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908303118147645/Untitled371_Restored_20230607153810.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBYO_1`"
+        }     
+    ],
+    "SSBSE_1": [
+        {
+            "name": "**1★ STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908302254129162/Untitled371_Restored_20230607153720.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBSE_1`"
+        }       
+    ],
+    "SSBJJ_1": [
+        {
+            "name": "**1★ STAYC J**",
+            "image": "https://media.discordapp.net/attachments/1109155416350412810/1115908303118147645/Untitled371_Restored_20230607153810.png",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSBJJ_1`"
+        }                
+    ],
     "LFTHE_1": [
         {
             "name": "**1★ Loona Heejin**",
