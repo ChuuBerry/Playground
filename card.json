@@ -9,6 +9,106 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "THLHS_1": [
+        {
+            "name": "**1★ TREASURE Choi Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLHS_1`"
+        }            
+    ],
+    "THLJH_1": [
+        {
+            "name": "**1★ TREASURE Jihoon**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLJH_1`"
+        }   
+    ],
+    "THLYS_1": [
+        {
+            "name": "**1★ TREASURE Yoshi**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLYS_1`"
+        }     
+    ],
+    "THLJK_1": [
+        {
+            "name": "**1★ TREASURE Junkyu**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLJK_1`"
+        }  
+    ],
+    "THLJA_1": [
+        {
+            "name": "**1★ TREASURE Yoon Jaehyuk**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLJA_1`"
+        }  
+    ],
+    "THLAS_1": [
+        {
+            "name": "**1★ TREASURE Asahi**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLAS_1`"
+        }   
+    ],
+    "THLHR_1": [
+        {
+            "name": "**1★ TREASURE Haruto**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLHR_1`"
+        }   
+    ],
+    "THLDY_1": [
+        {
+            "name": "**1★ TREASURE Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLDY_1`"
+        }    
+    ],
+    "THLJW_1": [
+        {
+            "name": "**1★ TREASURE Park Jeongwoo**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLJW_1`"
+        }    
+    ],
+    "THLJU_1": [
+        {
+            "name": "**1★ TREASURE So Junghwan**",
+            "image": "https://media.discordapp.net/attachments/1116364488699035698/1116364919789604864/Untitled411_20230608214929.png",
+            "theme": "card1",
+            "inv": "TREASURE",
+            "grade": "1star",
+            "code": "`THLJU_1`"
+        }                   
+    ],
     "IDIJA_1": [
         {
             "name": "**1★ iKON Jay**",
