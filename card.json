@@ -9,6 +9,116 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "WSPDA_1": [
+        {
+            "name": "**1★ WEi Daehyeon**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376216371478638/Untitled412_20230608223647.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPDA_1`"
+        }    
+    ],
+    "WSPDH_1": [
+        {
+            "name": "**1★ WEi Donghan**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376216694423652/Untitled412_20230608223558.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPDH_1`"
+        }    
+    ],
+    "WSPYO_1": [
+        {
+            "name": "**1★ WEi Yongha**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376217071923200/Untitled412_20230608223740.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPYO_1`"
+        }
+    ],
+    "WSPYH_1": [
+        {
+            "name": "**1★ WEi Yohan**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376217558466580/Untitled412_20230608223622.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPYH_1`"
+        }  
+    ],
+    "WSPSH_1": [
+        {
+            "name": "**1★ WEi Seokhwa**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376217982087208/Untitled412_20230608223532.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPSH_1`"
+        }   
+    ],
+    "WSPJS_1": [
+        {
+            "name": "**1★ WEi Junseo**",
+            "image": "https://media.discordapp.net/attachments/1116365055081062401/1116376218367967372/Untitled412_20230608223711.png",
+            "theme": "card1",
+            "inv": "WEi",
+            "grade": "1star",
+            "code": "`WSPJS_1`"
+        }    
+    ],
+    "GTBMY_1": [
+        {
+            "name": "**1★ G(I)-DLE Miyeon**",
+            "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321745893330964/Untitled344_20230608190056.png",
+            "theme": "card1",
+            "inv": "G(I)-DLE",
+            "grade": "2star",
+            "code": "`GTBMY_1`"
+        }               
+    ],
+    "GTBMN_1": [
+        {
+            "name": "**1★ G(I)-DLE Minnie**",
+            "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321746367291442/Untitled344_20230608190001.png",
+            "theme": "card1",
+            "inv": "G(I)-DLE",
+            "grade": "2star",
+            "code": "`GTBMN_1`"
+        }           
+    ],
+    "GTBSY_1": [
+        {
+            "name": "**1★ G(I)-DLE Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321746711216158/Untitled344_20230608185840.png",
+            "theme": "card1",
+            "inv": "G(I)-DLE",
+            "grade": "2star",
+            "code": "`GTBSY_1`"
+        }       
+    ],
+    "GTBYQ_1": [
+        {
+            "name": "**1★ G(I)-DLE Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321747344564285/Untitled344_20230608185813.png",
+            "theme": "card1",
+            "inv": "G(I)-DLE",
+            "grade": "2star",
+            "code": "`GTBYQ_1`"
+        }     
+    ],
+    "GTBSH_1": [
+        {
+            "name": "**1★ G(I)-DLE Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1106937729830354974/1116321747860459600/Untitled344_20230608185931.png",
+            "theme": "card1",
+            "inv": "G(I)-DLE",
+            "grade": "2star",
+            "code": "`GTBSH_1`"
+        }                   
+    ],
     "SSBSM_1": [
         {
             "name": "**1★ STAYC Sumin**",
