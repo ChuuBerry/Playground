@@ -9,6 +9,76 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "LFTHE_1": [
+        {
+            "name": "**1★ Gfriend Sowon**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040415809659/Untitled409_20230608210346.png",
+            "theme": "card1",
+            "inv": "Loona",
+            "grade": "1star",
+            "code": "`LFTHE_1`"
+        }        
+    ],
+    "GMGSW_1": [
+        {
+            "name": "**1★ Gfriend Sowon**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040415809659/Untitled409_20230608210346.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGSW_1`"
+        }    
+    ],
+    "GMGYR_1": [
+        {
+            "name": "**1★ Gfriend Yerin**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352040986218516/Untitled409_20230608210340.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGYR_1`"
+        }     
+    ],
+    "GMGEH_1": [
+        {
+            "name": "**1★ Gfriend Eunha**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041330163824/Untitled409_20230608210335.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGEH_1`"
+        }      
+    ],
+    "GMGYJ_1": [
+        {
+            "name": "**1★ Gfriend Yuju**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041648934952/Untitled409_20230608210330.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGYJ_1`"
+        }       
+    ],
+    "GMGSB_1": [
+        {
+            "name": "**1★ Gfriend SinB**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352041984462848/Untitled409_20230608210322.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGSB_1`"
+        }       
+    ],
+    "GMGUJ_1": [
+        {
+            "name": "**1★ Gfriend Umji**",
+            "image": "https://media.discordapp.net/attachments/1116351978839228537/1116352042311630968/Untitled409_20230608210141.png",
+            "theme": "card1",
+            "inv": "Gfriend",
+            "grade": "1star",
+            "code": "`GMGUJ_1`"
+        }       
+    ],
     "FTKHY_1": [
         {
             "name": "**1★ Fromis_9 Hayoung**",
