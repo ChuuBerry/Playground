@@ -9,6 +9,76 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "BPDJN_1": [
+        {
+            "name": "**Summer 2023 5★ BTS Jin**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDJN_1`"
+        }    
+    ],
+    "BPDSG_1": [
+        {
+            "name": "**Summer 2023 5★ BTS Suga**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDSG_1`"
+        }   
+    ],
+    "BPDJH_1": [
+        {
+            "name": "**Summer 2023 5★ BTS J-Hope**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDJH_1`"
+        }        
+    ],
+    "BPDRM_1": [
+        {
+            "name": "**Summer 2023 5★ BTS RM**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDRM_1`"
+        }     
+    ],
+    "BPDJM_1": [
+        {
+            "name": "**Summer 2023 5★ BTS Jimin**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDJM_1`"
+        }    
+    ],
+    "BPDTH_1": [
+        {
+            "name": "**Summer 2023 5★ BTS Taehyung**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDTH_1`"
+        }      
+    ],
+    "BPDJK_1": [
+        {
+            "name": "**Summer 2023 5★ BTS Jungkook**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1116588892385185872/Untitled414_20230609123904.png",
+            "theme": "card1",
+            "inv": "BTS",
+            "grade": "1star",
+            "code": "`BPDJK_1`"
+        }        
+    ],
     "SEBGL_1": [
         {
             "name": "**1★ Soloist Kwon Eunbi**",
@@ -4021,7 +4091,7 @@
     ],   
     "RPUIR_1": [
         {
-            "name": "**Playlist 5★ Red Velvet Irene**",
+            "name": "**Summer 2023 5★ Red Velvet Irene**",
             "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819126112439/Untitled406_20230605003520.png",
             "theme": "card1",
             "inv": "Red Velvet",
@@ -4031,7 +4101,7 @@
     ],   
     "RPUSG_1": [
         {
-            "name": "**Playlist 5★ Red Velvet Seulgi**",
+            "name": "**Summer 2023 5★ Red Velvet Seulgi**",
             "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819482611752/Untitled406_20230605003512.png",
             "theme": "card1",
             "inv": "Red Velvet",
@@ -4041,7 +4111,7 @@
     ],   
     "RPUWD_1": [
         {
-            "name": "**Playlist 5★ Red Velvet Wendy**",
+            "name": "**Summer 2023 5★ Red Velvet Wendy**",
             "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955819939807342/Untitled406_20230605003504.png",
             "theme": "card1",
             "inv": "Red Velvet",
@@ -4051,7 +4121,7 @@
     ],   
     "RPUJY_1": [
         {
-            "name": "**Playlist 5★ Red Velvet Joy**",
+            "name": "**Summer 2023 5★ Red Velvet Joy**",
             "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955820384387092/Untitled406_20230605003457.png",
             "theme": "card1",
             "inv": "Red Velvet",
@@ -4061,7 +4131,7 @@
     ],   
     "RPUYR_1": [
         {
-            "name": "**Playlist 5★ Red Velvet Yeri**",
+            "name": "**Summer 2023 5★ Red Velvet Yeri**",
             "image": "https://media.discordapp.net/attachments/1107175329115672576/1114955820904497152/Untitled406_20230605003450.png",
             "theme": "card1",
             "inv": "Red Velvet",
@@ -4071,7 +4141,7 @@
     ],   
     "CAOHY_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Haeyoon**",
+            "name": "**Summer 2023 5★ Cherry Bullet Haeyoon**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764062834860/Untitled407_20230606005716.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4081,7 +4151,7 @@
    ],   
     "CAOYJ_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Yuju**",
+            "name": "**Summer 2023 5★ Cherry Bullet Yuju**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764415152222/Untitled407_20230606005725.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4091,7 +4161,7 @@
     ],   
     "CAOBR_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Bora**",
+            "name": "**Summer 2023 5★ Cherry Bullet Bora**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323764801024000/Untitled407_20230606005732.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4101,7 +4171,7 @@
     ],   
     "CAOJW_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Jiwon**",
+            "name": "**Summer 2023 5★ Cherry Bullet Jiwon**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765174325249/Untitled407_20230606005741.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4111,7 +4181,7 @@
     ],   
     "CAORM_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Remi**",
+            "name": "**Summer 2023 5★ Cherry Bullet Remi**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765174325249/Untitled407_20230606005741.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4121,7 +4191,7 @@
     ],   
     "CAOCH_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet Chaerin**",
+            "name": "**Summer 2023 5★ Cherry Bullet Chaerin**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323765967040593/Untitled407_20230606005756.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4131,7 +4201,7 @@
     ],   
     "CAOMA_1": [
         {
-            "name": "**Playlist 5★ Cherry Bullet May**",
+            "name": "**Summer 2023 5★ Cherry Bullet May**",
             "image": "https://media.discordapp.net/attachments/1115323139790995497/1115323766281621614/Untitled407_20230606005803.png",
             "theme": "card1",
             "inv": "Cherry Bullet",
@@ -4141,7 +4211,7 @@
     ],   
     "NHFMA_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Mark**",
+            "name": "**Summer 2023 5★ NCT Dream Mark**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217328554044/Untitled408_20230607125953.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4151,7 +4221,7 @@
     ],   
     "NHFRJ_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Renjun**",
+            "name": "**Summer 2023 5★ NCT Dream Renjun**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217617948743/Untitled408_20230607125925.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4161,7 +4231,7 @@
     ],   
     "NHFJN_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Jeno**",
+            "name": "**Summer 2023 5★ NCT Dream Jeno**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868217957691392/Untitled408_20230607125836.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4171,7 +4241,7 @@
     ],   
     "NHFHC_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Haechan**",
+            "name": "**Summer 2023 5★ NCT Dream Haechan**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218268078190/Untitled408_20230607125900.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4181,7 +4251,7 @@
     ],   
     "NHFJM_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Jaemin**",
+            "name": "**Summer 2023 5★ NCT Dream Jaemin**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218570055690/Untitled408_20230607125705.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4191,7 +4261,7 @@
     ],   
     "NHFCL_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Chenle**",
+            "name": "**Summer 2023 5★ NCT Dream Chenle**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868218867855430/Untitled408_20230607125810.png",
             "theme": "card1",
             "inv": "NCT Dream",
@@ -4201,7 +4271,7 @@
     ],   
     "NHFJS_1": [
         {
-            "name": "**Playlist 5★ NCT Dream Jisung**",
+            "name": "**Summer 2023 5★ NCT Dream Jisung**",
             "image": "https://media.discordapp.net/attachments/1107175303152943175/1115868219253739540/Untitled408_20230607125745.png",
             "theme": "card1",
             "inv": "NCT Dream",
