@@ -7,7 +7,71 @@
             "inv": "Wallpaper",
             "code": "`ENBM_WP`"
         }
+    ],
+    "ATGR_WP": [
+        {
+            "name": "**Ateez Guerilla Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328599654092880/Untitled295_20230611134330.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ATGR_WP`"
+        }   
+    ],
+    "C458_WP": [
+        {
+            "name": "**CIX 458 Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`C458_WP`"
+        }    
+    ],
+    "TXSR_WP": [
+        {
+            "name": "**Tomorrow X Together Sugar Rush Ride Walllpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600828498030/Untitled295_20230611134357.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TXSR_WP`"
+        }   
+    ],
+    "AEGS_WP": [
+        {
+            "name": "**Aespa Girls Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328601356959744/Untitled295_20230611134111.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEGS_WP`"
+        }      
+    ],
+    "FRTK_WP": [
+        {
+            "name": "**Fromis_9 Talk and Talk Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328601822547990/Untitled295_20230611134154.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`FRTK_WP`"
+        }   
+    ],
+    "NJOM_WP": [
+        {
+            "name": "**NewJeans OMG Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328602204209182/Untitled295_20230611134210.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`NJOM_WP`"
+        }    
+    ],
+    "STSB_WP": [
+        {
+            "name": "**StayC So Bad Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328602611068948/Untitled295_20230611134300.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`STSB_WP`"
+        }       
         ]
                              }
+            
 
             
