@@ -9,6 +9,86 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "FMNSR_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394500382359592/Untitled418_20230611180054.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNSR_1`"
+        }    
+    ],
+    "FMNHY_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394500776644699/Untitled418_20230611175951.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNHY_1`"
+        }    
+    ],
+    "FMNJW_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394501187670036/Untitled418_20230611180524.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNJW_1`"
+        }    
+    ],
+    "FMNJS_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394501577736243/Untitled418_20230611180208.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNJS_1`"
+        }      
+    ],
+    "FMNSY_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394502324342814/Untitled418_20230611180532.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNSY_1`"
+        }     
+    ],
+    "FMNCY_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394502651482132/Untitled418_20230611175826.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNCY_1`"
+        }      
+    ],
+    "FMNNG_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394503028985856/Untitled418_20230611180316.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNNG_1`"
+        }      
+    ],
+    "FMNJH_1": [
+        {
+            "name": "**Limited 5★ Fromis_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1106903439792930876/1117394503490338886/Untitled418_20230611180540.png",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "5star",
+            "code": "`FMNJH_1`"
+        }        
+    ],
     "VLAEH_1": [
         {
             "name": "**Summer 2023 5★ Viviz Eunha**",
