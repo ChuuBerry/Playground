@@ -9,6 +9,46 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "BKLJS_1": [
+        {
+            "name": "**1★ Blackpink Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1117861995899793408/Untitled375_20230613010312.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "1star",
+            "code": "`BKLJS_1`"
+        }
+    ],
+    "BKLJN_1": [
+        {
+            "name": "**1★ Blackpink Jennie**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1117861996210167838/Untitled375_20230613010319.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "1star",
+            "code": "`BKLJN_1`"
+        }    
+    ],
+    "BKLRS_1": [
+        {
+            "name": "**1★ Blackpink Rosé**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1117861996554096640/Untitled375_20230613010249.png",
+            "theme": "card1",
+            "inv": "Blackpink",
+            "grade": "1star",
+            "code": "`BKLRS_1`"
+        }    
+    ],
+    "BKLLS_1": [
+        {
+            "name": "**1★ Blackpink Lisa**",
+            "image": "https://media.discordapp.net/attachments/1109677940637171773/1117861996826734644/Untitled375_20230613010306.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "1star",
+            "code": "`BKLLS_1`"
+        }    
+    ],
     "EFMHA_1": [
         {
             "name": "**First Monthsary 5★ Han**",
