@@ -9,6 +9,126 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "PSJNG_1": [
+        {
+            "name": "**5★ Purple Kiss Na Goeun**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867852238684200/Untitled419_20230613012318.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJNG_1`"
+        }        
+    ],
+    "PSJDS_1": [
+        {
+            "name": "**5★ Purple Kiss Dosie**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867851475337326/Untitled419_20230613012248.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJDS_1`"
+        }    
+    ],
+    "PSJIR_1": [
+        {
+            "name": "**5★ Purple Kiss Ireh**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867852238684200/Untitled419_20230613012318.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJIR_1`"
+        }        
+    ],
+    "PSJYK_1": [
+        {
+            "name": "**5★ Purple Kiss Yuki**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867852679102475/Untitled419_20230613012355.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJYK_1`"
+        }      
+    ],
+    "PSJCI_1": [
+        {
+            "name": "**5★ Purple Kiss Chaein**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867853081739335/Untitled419_20230613012419.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJCI_1`"
+        }       
+    ],
+    "PSJSW_1": [
+        {
+            "name": "**5★ Purple Kiss Swan**",
+            "image": "https://media.discordapp.net/attachments/1117867264029511763/1117867853559902300/Untitled419_20230613012447.png",
+            "theme": "card1",
+            "inv": "Purple Kiss",
+            "grade": "5star",
+            "code": "`PSJSW_1`"
+        }            
+    ],
+    "ILDGE_1": [
+        {
+            "name": "**2★ Ive Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178831053332490/Untitled348_20230514133208.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDGE_1`"
+        }    
+    ],
+    "ILDAY_1": [
+        {
+            "name": "**2★ Ive An Yujin**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178830608740422/Untitled348_20230514133244.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDAY_1`"
+        }    
+    ],
+    "ILDRE_1": [
+        {
+            "name": "**2★ Ive Rei**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178831464382464/Untitled348_20230514133230.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDRE_1`"
+        }       
+    ],
+    "ILDJW_1": [
+        {
+            "name": "**2★ Ive Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178831967694989/Untitled348_20230514133236.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDJW_1`"
+        }      
+    ],
+    "ILDLZ_1": [
+        {
+            "name": "**2★ Ive Liz**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178832429064222/Untitled348_20230514133216.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDLZ_1`"
+        }        
+    ],
+    "ILDLS_1": [
+        {
+            "name": "**2★ Ive Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1107175284257599548/1107178832911413288/Untitled348_20230514133223.png",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "2star",
+            "code": "`ILDLS_1`"
+        }        
+    ],
     "BKLJS_1": [
         {
             "name": "**1★ Blackpink Jisoo**",
