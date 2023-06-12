@@ -9,6 +9,126 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "EVFMHA_1": [
+        {
+            "name": "**First Monthsary 5★ Han**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682254207438959/Untitled416_20230609175539.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMHA_1`"
+        }        
+    ],
+    "EVFMSH_1": [
+        {
+            "name": "**First Monthsary 5★ Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682254773657750/Untitled416_20230609174018.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMSH_1`"
+        }            
+    ],
+    "EVFMWD_1": [
+        {
+            "name": "**First Monthsary 5★ Woodz**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682255272792185/Untitled416_20230609174337.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMWD_1`"
+        }   
+    ],
+    "EVFMWO_1": [
+        {
+            "name": "**First Monthsary 5★ Woong**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682255738347521/Untitled416_20230609175438.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMWO_1`"
+        }     
+    ],
+    "EVFMYJ_1": [
+        {
+            "name": "**First Monthsary 5★ Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682256241655819/Untitled416_20230609185455.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMYJ_1`"
+        }      
+    ],
+    "EVFMYH_1": [
+        {
+            "name": "**First Monthsary 5★ Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116682257525121085/Untitled416_20230609175739.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMYH_1`"
+        }       
+    ],
+    "EVFMJI_1": [
+        {
+            "name": "**First Monthsary 5★ Jiu**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690389521420308/Untitled416_20230609192748.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMJI_1`"
+        } 
+    ],
+    "EVFMLC_1": [
+        {
+            "name": "**First Monthsary 5★ Lucy**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690389915672637/Untitled416_20230609192353.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMLC_1`"
+        }    
+    ],
+    "EVFMNN_1": [
+        {
+            "name": "**First Monthsary 5★ Nana**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690390360260738/Untitled416_20230609192305.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMNN_1`"
+        }         
+    ],
+    "EVFMTY_1": [
+        {
+            "name": "**First Monthsary 5★ Tzuyu**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690390930694234/Untitled416_20230609192426.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMTY_1`"
+        }    
+    ],
+    "EVFMYN_1": [
+        {
+            "name": "**First Monthsary 5★ Yena**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690391618551858/Untitled416_20230609192618.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMYN_1`"
+        }    
+    ],
+    "EVFMYQ_1": [
+        {
+            "name": "**First Monthsary 5★ Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1116662968273338388/1116690392067362846/Untitled416_20230609192451.png",
+            "theme": "card1",
+            "inv": "Event",
+            "grade": "5star",
+            "code": "`EVFMYQ_1`"
+        }                
+    ],
     "FMNSR_1": [
         {
             "name": "**Limited 5★ Fromis_9 Saerom**",
