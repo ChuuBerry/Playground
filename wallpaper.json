@@ -70,6 +70,42 @@
             "inv": "Wallpaper",
             "code": "`STSB_WP`"
         }       
+    ],
+    "KPBC_WP": [
+        {
+            "name": "**Kep1er Back to the City Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118145636596985967/Untitled295_20230613195052.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`KPBC_WP`"
+        }           
+    ],
+    "CISM_WP": [
+        {
+            "name": "**CIX Save Me, Kill Me Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118145636185931856/Untitled295_20230613194938.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CISM_WP`"
+        }     
+    ],
+    "AEBM_WP": [
+        {
+            "name": "**Aespa Black Mamba Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118145635472912444/Untitled295_20230613194847.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEBM_WP`"
+        }         
+    ],
+    "TXBH_WP": [
+        {
+            "name": "**Tomorrow X Together Blue Hour Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118145635837820948/Untitled295_20230613194918.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TXBH_WP`"
+        }              
         ]
                              }
             
