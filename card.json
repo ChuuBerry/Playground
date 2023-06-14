@@ -9,6 +9,96 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "ZB1JW_1": [
+        {
+            "name": "**1★ ZEROBASEONE Jiwoong**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213024096985099/Untitled420_20230614001657.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1JW_1`"
+        }        
+    ],
+    "ZB1HB_1": [
+        {
+            "name": "**1★ ZEROBASEONE Hanbin**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213024919068714/Untitled420_20230614001602.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1HB_1`"
+        }     
+    ],
+    "ZB1ZH_1": [
+        {
+            "name": "**1★ ZEROBASEONE Zhang Hao**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213024508039259/Untitled420_20230614001630.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1ZH_1`"
+        }       
+    ],
+    "ZB1MT_1": [
+        {
+            "name": "**1★ ZEROBASEONE Matthew**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213025363677264/Untitled420_20230614001537.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1MT_1`"
+        }     
+    ],
+    "ZB1TR_1": [
+        {
+            "name": "**1★ ZEROBASEONE Taerae**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213025766318181/Untitled420_20230614001504.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1TR_1`"
+        }   
+    ],
+    "ZB1RC_1": [
+        {
+            "name": "**1★ ZEROBASEONE Ricky**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213026227687444/Untitled420_20230614001440.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1RC_1`"
+        }         
+    ],
+    "ZB1GV_1": [
+        {
+            "name": "**1★ ZEROBASEONE Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213026680688701/Untitled420_20230614001415.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1GV_1`"
+        }    
+    ],
+    "ZB1GW_1": [
+        {
+            "name": "**1★ ZEROBASEONE Gunwook**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213027125272688/Untitled420_20230614001347.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1GW_1`"
+        }        
+    ],
+    "ZB1YJ_1": [
+        {
+            "name": "**1★ ZEROBASEONE Yujin**",
+            "image": "https://media.discordapp.net/attachments/1118212588715651102/1118213027599224863/Untitled420_20230614001312.png",
+            "theme": "card1",
+            "inv": "ZEROBASEONE",
+            "grade": "1star",
+            "code": "`ZB1YJ_1`"
+        }            
+    ],
     "TMVTH_1": [
         {
             "name": "**1★ TNX Taehun**",
