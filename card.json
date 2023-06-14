@@ -8,7 +8,66 @@
             "grade": "1star",
             "code": "`FTKSR_1`"
         }
-        
+    ],
+    "TMVTH_1": [
+        {
+            "name": "**1★ TNX Taehun**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVTH_1`"
+        }    
+    ],
+    "TMVKJ_1": [
+        {
+            "name": "**1★ TNX Kyungjun**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVKJ_1`"
+        }    
+    ],
+    "TMVHS_1": [
+        {
+            "name": "**1★ TNX Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVHS_1`"
+        }    
+    ],
+    "TMVJH_1": [
+        {
+            "name": "**1★ TNX Junhyeok**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVJH_1`"
+        }     
+    ],
+    "TMVHW_1": [
+        {
+            "name": "**1★ TNX Hwi**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVHW_1`"
+        }    
+    ],
+    "TMVSJ_1": [
+        {
+            "name": "**1★ TNX Sungjun**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TMVSJ_1`"
+        }    
     ],
     "NHSMA_1": [
         {
