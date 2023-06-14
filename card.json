@@ -8,6 +8,117 @@
             "grade": "1star",
             "code": "`FTKSR_1`"
         }
+        
+    ],
+    "NHSMA_1": [
+        {
+            "name": "**2★ NCT Dream Mark**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304313864192/Untitled350_20230514135403.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSMA_1`"
+        }        
+   ],
+    "NHSRJ_1": [
+        {
+            "name": "**2★ NCT Dream Renjun**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184304745893918/Untitled350_20230514135341.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSRJ_1`"
+        }           
+    ],
+    "NHSJN_1": [
+        {
+            "name": "**2★ NCT Dream Jeno**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184305081421844/Untitled350_20230514135216.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSJN_1`"
+        }         
+    ],
+    "NHSHC_1": [
+        {
+            "name": "**2★ NCT Dream Haechan**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184305458921502/Untitled350_20230514135317.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSHC_1`"
+        }        
+    ],
+    "NHSJM_1": [
+        {
+            "name": "**2★ NCT Dream Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184305832202350/Untitled350_20230514135249.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSJM_1`"
+        }        
+    ],
+    "NHSCL_1": [
+        {
+            "name": "**2★ NCT Dream Chenle**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184306138402897/Untitled350_20230514135143.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSCL_1`"
+        }         
+    ],
+    "NHSJS_1": [
+        {
+            "name": "**2★ NCT Dream Jisung**",
+            "image": "https://media.discordapp.net/attachments/1107175303152943175/1107184306482331668/Untitled350_20230514135121.png",
+            "theme": "card1",
+            "inv": "NCT Dream",
+            "grade": "2star",
+            "code": "`NHSJS_1`"
+        }            
+    ],
+    "ASYWO_1": [
+        {
+            "name": "**5★ AB6IX Woong**",
+            "image": "https://media.discordapp.net/attachments/1113790521534591016/1118231859659292762/Untitled401_20230614013329.png",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "5star",
+            "code": "`ASYWO_1`"
+        }           
+    ],
+    "ASYWJ_1": [
+        {
+            "name": "**5★ AB6IX Woojin**",
+            "image": "https://media.discordapp.net/attachments/1113790521534591016/1118231860787544186/Untitled401_20230614013323.png",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "5star",
+            "code": "`ASYWJ_1`"
+        }      
+    ],
+    "ASYDH_1": [
+        {
+            "name": "**5★ AB6IX Daehwi**",
+            "image": "https://media.discordapp.net/attachments/1113790521534591016/1118231861496381612/Untitled401_20230614013342.png",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "5star",
+            "code": "`ASYDH_1`"
+        }       
+    ],
+    "ASYDO_1": [
+        {
+            "name": "**5★ AB6IX Donghyun**",
+            "image": "https://media.discordapp.net/attachments/1113790521534591016/1118231861123104900/Untitled401_20230614013335.png",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "5star",
+            "code": "`ASYDO_1`"
+        }               
     ],
     "PSJNG_1": [
         {
