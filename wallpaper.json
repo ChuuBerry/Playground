@@ -133,6 +133,42 @@
             "inv": "Wallpaper",
             "code": "`ENFV_WP`"
         }      
+    ],
+    "AEKR1_WP": [
+        {
+            "name": "**Aespa Karina Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118919697522507786/Untitled295_20230615230607.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEKR1_WP`"
+        }             
+    ],
+    "AEGS1_WP": [
+        {
+            "name": "**Aespa Giselle Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118145635472912444/Untitled295_20230613194847.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEGS1_WP`"
+        }      
+    ],
+    "AEWT1_WP": [
+        {
+            "name": "**Aespa Winter Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118919698059370579/Untitled295_20230615230542.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AEWT1_WP`"
+        }       
+    ],
+    "AENN1_WP": [
+        {
+            "name": "**Aespa Ningning Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118919698990506077/Untitled295_20230615230630.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`AENN1_WP`"
+        }                
         ]
                              }
             
