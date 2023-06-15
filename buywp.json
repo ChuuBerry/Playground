@@ -34,6 +34,33 @@
             "inv": "Wallpaper",
             "code": "`TXBH_WP`"
         }              
+    ],
+    "F9MN_WP": [
+        {
+            "name": "**Fromis_9 #menow Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118885808309551185/Untitled295_20230615205030.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`F9MN_WP`"
+        }       
+    ],
+    "ZB1_WP": [
+        {
+            "name": "**ZB1 Here I Am Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118885808699609198/Untitled295_20230615205114.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1_WP`"
+        }  
+    ],
+    "ENFV_WP": [
+        {
+            "name": "**Enhypen Fever Limited Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1118885809085497344/Untitled295_20230615205132.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ENFV_WP`"
+        }  
         ]
                              }
             
