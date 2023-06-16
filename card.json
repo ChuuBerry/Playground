@@ -9,6 +9,46 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "SCHSP_1": [
+        {
+            "name": "**1★ Soloist Chungha**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SCHSP_1`"
+        }
+    ],
+    "SYRAI_1": [
+        {
+            "name": "**1★ Soloist Yerin**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801690804295/Untitled414_20230616103600.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SYRAI_1`"
+        }   
+    ],
+    "SCRRH_1": [
+        {
+            "name": "**1★ Soloist Crush**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801992798208/Untitled414_20230616104239.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SCRRH_1`"
+        }   
+    ],
+    "STYSL_1": [
+        {
+            "name": "**1★ Soloist Chungha**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094802336714812/Untitled414_20230616103914.png",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`STYSL_1`"
+        }    
+    ],
     "ZB1JW_1": [
         {
             "name": "**1★ ZEROBASEONE Jiwoong**",
