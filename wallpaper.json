@@ -204,6 +204,24 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`ZB1HB4_WP`"
+        }  
+    ],
+    "ZB1RC1_WP": [
+        {
+            "name": "**ZEROBASEONE Ricky Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119255292715216926/Untitled295_20230616211937.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1RC1_WP`"
+        }     
+    ],
+    "ZB1MT1_WP": [
+        {
+            "name": "**ZEROBASEONE Matthew Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119255293029797928/Untitled295_20230616212013.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1MT1_WP`"
         }      
         ]
                              }
