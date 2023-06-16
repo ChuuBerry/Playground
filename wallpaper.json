@@ -168,7 +168,43 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`AENN1_WP`"
-        }                
+        }
+    ],
+    "ZB1HB1_WP": [
+        {
+            "name": "**ZEROBASEONE Hanbin Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119176066209169438/Untitled295_20230616160448.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1HB1_WP`"
+        }   
+    ],
+    "ZB1HB2_WP": [
+        {
+            "name": "**ZEROBASEONE Hanbin Wallpaper#2**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119176066653753354/Untitled295_20230616160520.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1HB2_WP`"
+        }      
+    ],
+    "ZB1HB3_WP": [
+        {
+            "name": "**ZEROBASEONE Hanbin Wallpaper#3**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119176067240968252/Untitled295_20230616160537.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1HB3_WP`"
+        }     
+    ],
+    "ZB1HB4_WP": [
+        {
+            "name": "**ZEROBASEONE Hanbin Wallpaper#4**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1119176479754952764/Untitled295_20230616160730.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZB1HB4_WP`"
+        }      
         ]
                              }
             
