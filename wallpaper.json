@@ -223,6 +223,42 @@
             "inv": "Wallpaper",
             "code": "`ZB1MT1_WP`"
         }      
+    ],
+    "LSF1_WP": [
+        {
+            "name": "**Le Sserafim Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1120348774632529920/Untitled295_20230619214309.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`LSF1_WP`"
+        }         
+    ],
+    "TBZ1_WP": [
+        {
+            "name": "**The Boyz Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1120348775408488558/Untitled295_20230619214458.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TBZ1_WP`"
+        }     
+    ],
+    "TW1_WP": [
+        {
+            "name": "**Twice Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1120348775995678790/Untitled295_20230619214531.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TW1_WP`"
+        }  
+    ],
+    "ATZ1_WP": [
+        {
+            "name": "**Ateez Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1120348775068729424/Untitled295_20230619214338.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ATZ1_WP`"
+        }            
         ]
                              }
             
