@@ -9,6 +9,76 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "DFPYS_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Yunseong**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPYS_1`"
+        }    
+    ],
+    "DFPHY_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Hyeop**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPHY_1`"
+        }  
+    ],
+    "DFPCG_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Changuk**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPCG_1`"
+        }  
+    ],
+    "DFPDY_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Dongyun**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPDY_1`"
+        }    
+    ],
+    "DFPMS_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Minseo**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPMS_1`"
+        }       
+    ],
+    "DFPJH_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Junho**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPJH_1`"
+        }      
+    ],
+    "DFPAL_1": [
+        {
+            "name": "**Summer 2023 5★ Drippin Alex**",
+            "image": "https://media.discordapp.net/attachments/1108580168013987881/1119094801338470452/Untitled414_20230616102938.png",
+            "theme": "card1",
+            "inv": "Drippin",
+            "grade": "5star",
+            "code": "`DFPAL_1`"
+        }        
+    ],
     "SCHSP_1": [
         {
             "name": "**1★ Soloist Chungha**",
