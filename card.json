@@ -9,6 +9,186 @@
             "code": "`FTKSR_1`"
         }
     ],
+    "OBGHJ_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Hyojung**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849267837587496/Untitled431_20230626192123.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGHJ_1`"
+        } 
+    ],    
+    "OBGMM_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Mimi**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849268231847966/Untitled431_20230626192045.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGMM_1`"
+        }   
+    ],    
+    "OBGYA_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Yooa**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849268772917289/Untitled431_20230626192109.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGYA_1`"
+        }    
+    ],    
+    "OBGSH_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Seunghee**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849269204926464/Untitled431_20230626192036.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGSH_1`"
+        }  
+    ],    
+    "OBGJH_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Jiho**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849269599178752/Untitled431_20230626192117.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGJH_1`"
+        }    
+    ],    
+    "OBGYB_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Yubin**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849269905379378/Untitled431_20230626192053.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGYB_1`"
+        }   
+    ],    
+    "OBGAR_1": [
+        {
+            "name": "**Summer 2023 5★ Oh My Girl Arin**",
+            "image": "https://media.discordapp.net/attachments/1108519199845929010/1122849270270279724/Untitled431_20230626192101.png",
+            "theme": "card1",
+            "inv": "Oh My Girl",
+            "grade": "5star",
+            "code": "`OBGAR_1`"
+        }   
+    ],    
+    "TTRSY_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Sangyeon**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911123818152118/Untitled432_20230626232024.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRSY_1`"
+        }    
+    ],    
+    "TTRJC_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Jacob**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911298406064229/Untitled432_20230626231926.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRJC_1`"
+        }  
+    ],    
+    "TTRYH_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911124250185838/Untitled432_20230626231826.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRYH_1`"
+        } 
+    ],    
+    "TTRHJ_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Hyunjae**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911124669604002/Untitled432_20230626231706.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRHJ_1`"
+        }  
+    ],    
+    "TTRJY_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Juyeon**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911125160329377/Untitled432_20230626232600.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRJY_1`"
+        } 
+    ],    
+    "TTRKV_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Kevin**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911125596557332/Untitled432_20230626232316.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRKV_1`"
+        } 
+    ],    
+    "TTRNE_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz New**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911236368113664/Untitled432_20230626232225.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRNE_1`"
+        }  
+    ],    
+    "TTRJQ_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Q**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911236825305180/Untitled432_20230626232131.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRJQ_1`"
+        } 
+    ],    
+    "TTRJH_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911237152440450/Untitled432_20230626232510.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRJH_1`"
+        } 
+    ],    
+    "TTRSW_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Sunwoo**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911237521547385/Untitled432_20230626232421.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRSW_1`"
+        } 
+    ],    
+    "TTRER_1": [
+        {
+            "name": "**Summer 2023 5★ The Boyz Eric**",
+            "image": "https://media.discordapp.net/attachments/1108642190613295234/1122911298045362266/Untitled432_20230626231631.png",
+            "theme": "card1",
+            "inv": "The Boyz",
+            "grade": "5star",
+            "code": "`TTRER_1`"
+        }        
+    ],
     "DFPYS_1": [
         {
             "name": "**Summer 2023 5★ Drippin Yunseong**",
